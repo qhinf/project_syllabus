@@ -27,6 +27,7 @@ parse:
     - linkify # Maak automatisch links van teksten die op een link lijken
     - replacements # Vervang (c) door een copyright symbool etc.
     - smartquotes # Vervang ' en " door echte, schuine quotes (pas op met code!)
+    - strikethrough # Streep erdoor met ~~doorgestreept~~
     - substitution # Vervang {{ key }} in teksten met een waarde uit deze configuratie
     - tasklist # Takenlijst zoals in GitHub Flavored Markdown (- [ ] Dit is een taak)
 
@@ -45,6 +46,9 @@ sphinx:
     # We wachten op https://github.com/executablebooks/sphinx-exercise/issues/13
     numfig_format:
       exercise: "Oefening %s"
+    # Zorg dat elke heading een anchor krijgt op basis van de slug, zodat
+    # [](#id) links in de tekst ook werken.
+    myst_heading_anchors: 3
     # Definieer de keys die in de tekst vervangen kunnen worden. Handig voor
     # zaken die vaker terugkomen en bijvoorbeeld aangepast moeten worden voor
     # een volgende editie.
