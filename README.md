@@ -1,4 +1,4 @@
-# Syllabus Template
+# Project Syllabus
 
 Deze syllabus maakt gebruik van Jupyter Book. Alle inhoudelijke bestanden staan in de map *syllabus*:
 

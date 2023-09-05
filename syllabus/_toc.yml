@@ -6,7 +6,15 @@ format: jb-book
 root: index
 options:
   numbered: true
-chapters:
-- file: markdown
-- file: notebooks
-- file: markdown-notebooks
+parts:
+  - caption: Over de module
+    chapters:
+    - file: rollen
+    # - file: beoordeling
+  # - caption: Tools # Handleidingen voor GitHub, Trello, Teams e.d.
+  # - caption: Opdrachten
+    # - opstart opdracht
+    # - samenwerking reflectie
+    # - sprint review opdracht
+    # - eindoplevering
+  # - caption: Domeinen # Per domein nuttige hulpmiddelen

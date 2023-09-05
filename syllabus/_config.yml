@@ -1,8 +1,7 @@
 # Boek configuratie
 # https://jupyterbook.org/customize/config.html
 
-# TODO: Verander de titel!
-title: Voorbeeldsyllabus
+title: Project Informatica
 
 # Auteur is verplicht, maar wordt voor de syllabus site automatisch aangepast op
 # basis van de commitgeschiedenis.
@@ -11,12 +10,10 @@ author: Q-highschool
 # Standaard worden alleen bestanden die in _toc.yml genoemd worden "gecompileerd"
 only_build_toc_files: true
 
-# Alle code in een notebook wordt opnieuw uitgevoerd tijdens compilatie.
-# TODO: Pas dit aan naar wat handig is in jouw context, zie
 # https://jupyterbook.org/content/execute.html. Voor syllabi zonder code zet
 # execute_notebooks op "off" (inclusief quotes!)
 execute:
-  execute_notebooks: force
+  execute_notebooks: "off"
 
 # Configuratie voor de MyST Markdown parser, met een aantal handige extensies
 # standaard aangezet. Zie https://myst-parser.readthedocs.io/en/latest/syntax/optional.html
@@ -52,11 +49,9 @@ sphinx:
     # zaken die vaker terugkomen en bijvoorbeeld aangepast moeten worden voor
     # een volgende editie.
     myst_substitutions:
-      deadline: "donderdag 29 juno, 16:00"
-      deadline_uitstel_aanvragen: "maandag 12 juno, 16:00"
-      deadline_uitstel: "donderdag 13 julij, 16:00"
-      docent: "..."
-      docent_email: "... apenstaartje quadraam punt nl"
+      datum_eindoplevering: "woensdag 1 november"
+      docent: "Arthur Rump"
+      docent_email: "a.rump apenstaartje quadraam punt nl"
 
 
 # html, repository en launch_buttons instellingen worden globaal voor alle
