@@ -11,9 +11,12 @@ parts:
     chapters:
     - file: rollen
     - file: beoordeling
-  # - caption: Tools # Handleidingen voor GitHub, Trello, Teams e.d.
-  # - caption: Opdrachten
-    # - opstart opdracht
+  - caption: Tools # Handleidingen voor GitHub, Trello, Teams e.d.
+    chapters:
+    - file: workshop_trello
+  - caption: Opdrachten
+    chapters:
+    - file: startopdracht
     # - samenwerking reflectie
     # - sprint review opdracht
     # - eindoplevering

@@ -57,6 +57,10 @@ sphinx:
       docent: "Arthur Rump"
       docent_email: "a.rump apenstaartje quadraam punt nl"
 
+      github_classroom_workshop_url: "https://classroom.github.com/a/0wVoIcEy"
+      github_classroom_url: "https://classroom.github.com/a/gb_0tSLY"
+
+
 
 # html, repository en launch_buttons instellingen worden globaal voor alle
 # syllabi afgehandeld.

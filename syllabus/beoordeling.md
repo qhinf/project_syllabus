@@ -6,9 +6,122 @@ Gedurende de module beoordelen we de samenwerking en jouw eigen bijdrage aan het
 
 ## Samenwerking en jouw bijdrage
 
-De samenwerking beoordelen we vanaf het begin van de module en *in week 6* ronden we deze beoordeling af. We gaan hierbij af op wat je tijdens de lessen hebt laten zien, de samenwerkingsreflecties die je met je team hebt uitgevoerd, concrete zaken zoals commits in GitHub en afgeronde taken op Trello en het commentaar van je teamgenoten. We willen in de beoordeling natuurlijk wel rekening houden met de vooruitgang die je hopelijk maakt, want we zijn hier ten slotte wel om te leren. De eindbeoordeling is dus niet een gemiddelde van wat we over de weken gezien hebben. Hoe we het precies aanpakken volgt nog (suggesties zijn welkom).
+De samenwerking beoordelen we vanaf het begin van de module en *in week 6* ronden we deze beoordeling af. We volgen de rubric hieronder en gaan hierbij af op wat je tijdens de lessen hebt laten zien, de samenwerkingsreflecties die je met je team hebt uitgevoerd, concrete zaken zoals commits in GitHub en afgeronde taken op Trello en het commentaar van je teamgenoten. We willen in de beoordeling natuurlijk wel rekening houden met de vooruitgang die je hopelijk maakt, want we zijn hier ten slotte wel om te leren. De eindbeoordeling is dus niet een gemiddelde van wat we over de weken gezien hebben. Hoe we het precies aanpakken volgt nog (suggesties zijn welkom).
 
-TODO: Rubric, met algemeen en specifiek per rol
+:::{list-table} Rubric Samenwerken
+:header-rows: 1
+:stub-columns: 1
+:width: 100%
+
+* -
+  - Expert
+  - Gevorderd
+  - In ontwikkeling
+  - Beginner
+* - Afspraken weten
+  - Ik heb overzicht over de gemaakte afspraken.
+  - Ik weet goed wat er is afgesproken.
+  - Ik weet niet precies wat er afgesproken is.
+  - Ik vind het lastig om bij te houden wat er in de groep besproken wordt en ook zijn de gemaakte afspraken voor mij niet altijd helder.
+* - Afspraken nakomen
+  - Ik kom alle gemaakte afspraken na.
+  - Ik kom meestal de gemaakte afspraken na en communiceer als het niet lukt.
+  - Het lukt me vaak niet om (op tijd) de afspraken na te komen en communiceer hier soms over.
+  - Het lukt me bijna nooit om de afspraken op tijd na te komen. Ik communiceer hier niet over met mijn team.
+* - Luisteren en non-verbale communicatie
+  - Ik luister naar wat anderen te vertellen hebben en laat anderen uitspreken. Ik begrijp non-verbale communicatie door anderen.
+  - Ik luister vaak naar wat anderen te vertellen hebben. De meeste vormen van non-verbale communicatie door anderen begrijp ik, zoals oogcontact en lichaamstaal.
+  - Ik luister meestal naar anderen. Soms begrijp ik de non-verbale communicatie van anderen.
+  - Ik vind het lastig om goed naar anderen te luisteren, ik ben snel afgeleid en/of wil graag zelf vertellen. Ik vind het lastig om non-verbale communicatie door anderen te begrijpen.
+* - Motivatie samenwerken
+  - Ik kan plezier beleven aan het werken met elkaar en ik stimuleer dat er in de groep optimaal samenwerken mogelijk is. De kennis en vaardigheden van anderen zijn van nut voor mijn rol in een zinvolle samenwerking.
+  - Ik kan op basis van wat anderen al kunnen en weten vaststellen wat mijn persoonlijke leerdoel zal zijn waaraan ik plezier beleef. Ik sta open voor de kennis en vaardigheden die een ander al vergaard heeft.
+  - Kennis en vaardigheden van anderen kunnen mij enthousiasmeren bij het bedenken van het eindproduct. Ik kan zien wat het nut van samenwerken is.
+  - Ik vind samenwerken met elkaar niet prettig, kan moeilijk meedoen in de groep. Ik ben mij niet bewust van mijn invloed op de werksfeer.
+* - Rol kiezen (alleen project 2)
+  - Bij het kiezen van een rol kijk ik naar mijn kwaliteiten en zwakke punten. Deze kan ik ook benoemen. Ik kies een rol waarin ik me wil verbeteren.
+  - Ik ben me bewust van mijn voorkeursrol en kies een rol waarin ik me kan verbeteren.
+  - Ik kies een rol die me leuk lijkt en aansluit bij wat ik kan.
+  - Ik kies niet bewust voor een rol maar doe wat op dat moment goed voelt.
+* -
+  -
+  -
+  -
+  -
+:::
+
+Daarnaast hebben we voor de verschillende rollen ook een specifieke rubric:
+
+:::{list-table} Scrum master
+:header-rows: 1
+:stub-columns: 1
+:width: 100%
+
+* -
+  - Expert
+  - Gevorderd
+  - In ontwikkeling
+  - Beginner
+* - Taken verdelen en monitoren
+  - Ik zorg dat alle taken helder beschreven zijn en dat iedereen weet welke taken wanneer van hen verwacht worden. Ik spreek mijn teamgenoten erop aan als zij zich daar niet aan houden. Bij de weekly standup vraag ik net zo lang door totdat voor iedereen helder is wat ieder teamlid concreet gedaan heeft.
+  - Ik zorg dat alle taken helder beschreven zijn en dat iedereen weet welke taken wanneer van hen verwacht worden. Ik vergeet soms om mijn teamgenoten aan te spreken als afspraken niet gehaald worden. In de weekly standup stimuleer ik mijn teamgenoten om hun voortgang te delen.
+  - Ik zorg dat de taken verdeeld worden. De voortgang merk ik alleen op tijdens de weekly standup. Bij de weekly standup geef ik iedereen de ruimte om hun voortgang te delen.
+  - Ik krijg het niet voor elkaar om een heldere taakverdeling op te zetten. Bij de weekly standup krijg ik niet altijd een goed beeld van het werk dat mijn teamgenoten gedaan hebben.
+* - Faciliteren
+  - Als teamgenoten ergens tegenaan lopen, dan help ik hen weer op gang te komen door ze in contact te brengen met anderen die ze kunnen helpen. Als er iets geregeld moet worden, dan pak ik dat zo snel mogelijk op.
+  - Als teamgenoten ergens tegenaan lopen, dan help ik ze zelf weer op gang, maar dat gaat wel ten koste van mijn eigen taken. Als er iets geregeld moet worden, dan pak ik dat op.
+  - Ik ben niet altijd responsief bij hulpvragen van teamgenoten, maar tijdens de weekly standup geef ik wel aandacht aan hulpvragen. Als er iets geregeld moet worden, dan laat ik dat impliciet door iemand anders oppakken.
+  - Ik ben gefocust op mijn eigen taken en ondersteun mijn team niet of nauwelijks bij hulpvragen of dingen die geregeld moeten worden.
+:::
+
+:::{list-table} Product owner
+:header-rows: 1
+:stub-columns: 1
+:width: 100%
+
+* -
+  - Expert
+  - Gevorderd
+  - In ontwikkeling
+  - Beginner
+* - Productvisie
+  -
+  -
+  -
+  -
+* - Presentatie en demonstratie
+  -
+  -
+  -
+  -
+* - Kwaliteitsbewaking
+  -
+  -
+  -
+  -
+:::
+
+:::{list-table} Developer
+:header-rows: 1
+:stub-columns: 1
+:width: 100%
+
+* -
+  - Expert
+  - Gevorderd
+  - In ontwikkeling
+  - Beginner
+* - Focus
+  -
+  -
+  -
+  -
+* - Technische verdieping
+  -
+  -
+  -
+  -
+:::
 
 ## Eindproduct
 
