@@ -2,11 +2,11 @@
 
 Gedurende de module beoordelen we de samenwerking en jouw eigen bijdrage aan het project en aan het eind beoordelen we het eindproduct. Je cijfer wordt voor 60% bepaald door de samenwerking en jouw bijdrage daaraan en voor 40% door het eindproduct.
 
-*Deze beoordeling is nog in ontwikkeling en kan dus nog veranderen. De precieze eisen ontbreken nog grotendeels.*
+*Deze beoordeling is nog in ontwikkeling en kan dus nog veranderen.*
 
 ## Samenwerking en jouw bijdrage
 
-De samenwerking beoordelen we vanaf het begin van de module en *in week 6* ronden we deze beoordeling af. We volgen de rubric hieronder en gaan hierbij af op wat je tijdens de lessen hebt laten zien, de samenwerkingsreflecties die je met je team hebt uitgevoerd, concrete zaken zoals commits in GitHub en afgeronde taken op Trello en het commentaar van je teamgenoten. We willen in de beoordeling natuurlijk wel rekening houden met de vooruitgang die je hopelijk maakt, want we zijn hier ten slotte wel om te leren. De eindbeoordeling is dus niet een gemiddelde van wat we over de weken gezien hebben. Hoe we het precies aanpakken volgt nog (suggesties zijn welkom).
+De samenwerking beoordelen we vanaf het begin van de module en *in week 6* ronden we deze beoordeling grotendeels af. We volgen de rubric hieronder en gaan hierbij af op wat je tijdens de lessen hebt laten zien, de samenwerkingsreflecties die je met je team hebt uitgevoerd, concrete zaken zoals commits in GitHub en afgeronde taken op Trello en het commentaar van je teamgenoten. We willen in de beoordeling natuurlijk wel rekening houden met de vooruitgang die je hopelijk maakt, want we zijn hier ten slotte wel om te leren. De eindbeoordeling is dus niet een gemiddelde van wat we over de weken gezien hebben. Hoe we het precies aanpakken volgt nog (suggesties zijn welkom).
 
 :::{list-table} Rubric Samenwerken
 :header-rows: 1
@@ -43,7 +43,9 @@ De samenwerking beoordelen we vanaf het begin van de module en *in week 6* ronde
   - Ik ben me bewust van mijn voorkeursrol en kies een rol waarin ik me kan verbeteren.
   - Ik kies een rol die me leuk lijkt en aansluit bij wat ik kan.
   - Ik kies niet bewust voor een rol maar doe wat op dat moment goed voelt.
-* -
+* - ...
+    
+    Wat vinden jullie belangrijk?
   -
   -
   -
@@ -85,20 +87,20 @@ Daarnaast hebben we voor de verschillende rollen ook een specifieke rubric:
   - In ontwikkeling
   - Beginner
 * - Productvisie
-  -
-  -
-  -
-  -
-* - Presentatie en demonstratie
-  -
-  -
-  -
-  -
+  - De productvisie geeft een helder beeld van het product en bevat alle vereiste onderdelen (visie, doelgroep, behoefte, unieke kenmerken en doelen). De user stories zijn concreet en relevant voor het project. Samen geeft dit genoeg informatie voor het team om beslissingen te kunnen nemen in lijn met het beoogde eindproduct.
+  - De productvisie geeft een goed beeld van het product en bevat alle vereiste onderdelen. De user stories zijn concreet. De productvisie heeft nog enkele verduidelijkingen nodig om alle vragen vanuit het team te kunnen beantwoorden.
+  - De productvisie bevat alle vereiste onderdelen en schetst een beeld van het eindproduct. De user stories hebben minstens een duidelijke *zodat* die het doel van de gebruikers beschrijft.
+  - De productvisie mist onderdelen of schetst slechts een vaag beeld van het beoogde eindproduct. De user stories zijn onduidelijk en geven geen houvast bij het ontwikkelen van het product.
+* - Presentatie en demonstraties
+  - Bij presentaties draag je de productvisie helder uit en laat je zien hoe (de huidige versie van) het product (wel of niet) aan die visie voldoet. De presentaties zijn levendig en professioneel. Bij demonstraties geef je een goede impressie van het product inclusief de beperkingen en laat je irrelevante details achterwege.
+  - Bij presentaties draag je de productvisie helder uit en laat je zien hoe (de huidige versie van) het product (wel of niet) aan die visie voldoet. Bij demonstraties geef je een goed beeld van het product inclusief de (huidige) beperkingen.
+  - Bij presentaties noem je zowel de productvisie en de huidige staat van het product en maakt daar duidelijk onderscheid in. Bij demonstraties geef je een helder beeld van het product.
+  - Bij presentaties geef je een goed beeld van de huidige staat van het product, maar de link naar de visie blijft een beetje vaag. Bij demonstraties laat je het product zien, maar het wordt niet helemaal duidelijk hoe het product gebruikt kan worden.
 * - Kwaliteitsbewaking
-  -
-  -
-  -
-  -
+  - Ik test het product regelmatig en houdt daarbij in de gaten of het product in lijn is met de visie. Ik laat het product uitproberen door personen uit onze doelgroep, om te kijken of het product ook in de praktijk werkt.
+  - 
+  - 
+  - 
 :::
 
 :::{list-table} Developer
@@ -112,15 +114,20 @@ Daarnaast hebben we voor de verschillende rollen ook een specifieke rubric:
   - In ontwikkeling
   - Beginner
 * - Focus
-  -
-  -
-  -
-  -
+  - Ik ben gefocust op mijn taken en laat mij niet afleiden door dingen die er niet toe doen. Als ik ergens op vastloop, schakel ik mijn scrum master in.
+  - 
+  - 
+  - 
+* - Kwaliteit
+  - Ik zorg dat ik mijn taken op een goede manier volbreng: de code die ik schrijf en andere dingen die ik maak zijn van hoge kwaliteit volgens de kwaliteitseisen die daarop van toepassing zijn. Ik zorg dat mijn bijdrages begrijpbaar zijn voor mijn teamgenoten en dat ze goed integreren in het product.
+  - 
+  - 
+  - 
 * - Technische verdieping
-  -
-  -
-  -
-  -
+  - Ik duik in de technische aspecten van het project en pak uitdagingen aan om mijn technische kennis te verdiepen. Als ik niet weet hoe ik iets kan oplossen, ga ik op zoek naar nieuwe technieken die ik kan toepassen om dat wel voor elkaar te krijgen.
+  - Ik kies mijn taken op basis van de kennis die ik al heb, maar ik ga een uitdaging niet uit de weg als die zich voordoet. Zo verdiep ik mijn technische kennis op de terreinen waar ik al ervaring heb.
+  - Ik beperk mij tot de technische aspecten waar ik al eerder mee gewerkt heb. Als zich uitdagingen voordoen die ik niet kan oplossen zonder extra kennis, zorg ik dat anderen dat op zich nemen.
+  - Ik laat mij soms overspoelen door technische uitdagingen waarvoor ik niet de benodigde kennis heb en die ook niet wil of kan verkrijgen.
 :::
 
 ## Eindproduct
