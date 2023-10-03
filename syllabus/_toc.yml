@@ -17,6 +17,7 @@ parts:
   - caption: Opdrachten
     chapters:
     - file: startopdracht
+    - file: sprint_review
     # - samenwerking reflectie
     # - sprint review opdracht
     # - eindoplevering
