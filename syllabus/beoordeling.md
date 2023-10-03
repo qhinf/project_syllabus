@@ -115,14 +115,14 @@ Daarnaast hebben we voor de verschillende rollen ook een specifieke rubric:
   - Beginner
 * - Focus
   - Ik ben gefocust op mijn taken en laat mij niet afleiden door dingen die er niet toe doen. Als ik ergens op vastloop, schakel ik mijn scrum master in.
-  - 
-  - 
-  - 
+  - Ik ben meestal gefocust op mijn taken, maar laat me af en toe afleiden. Als ik ergens op vastloop, schakel in mijn scrum master in.
+  - Ik ben meestal gefocust op mijn taken, maar laat me af en toe afleiden. Ik vind het moeilijk om mijn scrum master om hulp te vragen en blijf daardoor lang vastzitten.
+  - Ik mis focus en laat me snel afleiden. Ik vind het moeilijk om mijn scrum master om hulp te vragen en blijf daardoor lang vastzitten.
 * - Kwaliteit
   - Ik zorg dat ik mijn taken op een goede manier volbreng: de code die ik schrijf en andere dingen die ik maak zijn van hoge kwaliteit volgens de kwaliteitseisen die daarop van toepassing zijn. Ik zorg dat mijn bijdrages begrijpbaar zijn voor mijn teamgenoten en dat ze goed integreren in het product.
-  - 
-  - 
-  - 
+  - Ik zorg dat ik mijn taken op een goede manier volbreng: de code die ik schrijf en andere dingen die ik maak zijn van hoge kwaliteit volgens de kwaliteitseisen die daarop van toepassing zijn. Ik vergeet soms om mijn teamgenoten mee te nemen bij wat ik maak.
+  - De code die ik schrijf werkt en de dingen die ik maak sluiten meestal aan op het project. Ik vergeet soms om mijn teamgenoten mee te nemen in wat ik maak.
+  - De producten die ik aflever zijn ondermaats. Mijn teamgenoten zijn veel tijd kwijt om mijn werk op orde te brengen en te integreren in het project.
 * - Technische verdieping
   - Ik duik in de technische aspecten van het project en pak uitdagingen aan om mijn technische kennis te verdiepen. Als ik niet weet hoe ik iets kan oplossen, ga ik op zoek naar nieuwe technieken die ik kan toepassen om dat wel voor elkaar te krijgen.
   - Ik kies mijn taken op basis van de kennis die ik al heb, maar ik ga een uitdaging niet uit de weg als die zich voordoet. Zo verdiep ik mijn technische kennis op de terreinen waar ik al ervaring heb.
