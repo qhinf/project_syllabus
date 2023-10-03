@@ -14,6 +14,7 @@ parts:
   - caption: Tools # Handleidingen voor GitHub, Trello, Teams e.d.
     chapters:
     - file: workshop_trello
+    - file: howto_github
   - caption: Opdrachten
     chapters:
     - file: startopdracht
