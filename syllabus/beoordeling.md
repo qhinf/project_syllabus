@@ -132,7 +132,30 @@ Daarnaast hebben we voor de verschillende rollen ook een specifieke rubric:
 
 ## Eindproduct
 
-In het project combineren jullie de kennis die je uit eerdere modules meeneemt en dus beoordelen we het product ook aan de hand van de domeinen die op jullie product van toepassing zijn. Jullie mogen zelf drie domeinen kiezen op basis waarvan het product beoordeeld wordt en als resultaat geldt het gemiddelde van die drie. Voor een voldoende moet het product dus in minstens twee domeinen vallen! Hieronder staat voor elk van de domeinen een rubric die beschrijft hoe een goed product er vanuit dat domein uitziet.
+In het project combineren jullie de kennis die je uit eerdere modules meeneemt en dus beoordelen we het product ook aan de hand van de domeinen die op jullie product van toepassing zijn. Jullie mogen zelf drie domeinen kiezen op basis waarvan het product beoordeeld wordt en als resultaat geldt het gemiddelde van die drie en de algemene productrubric. Voor een voldoende moet het product dus in minstens twee domeinen vallen! Hieronder staat de algemene productrubric en voor elk van de domeinen een rubric die beschrijft hoe een goed product er vanuit dat domein uitziet.
+
+:::{list-table} Algemene productrubric
+:header-rows: 1
+:stub-columns: 1
+:width: 100%
+
+* -
+  - Goed
+  - Ruim voldoende
+  - Matig
+  - Onvoldoende
+* - Functionaliteit
+  - Het product is uitgebreid, alle features uit de productvisie zijn geïmplementeerd en alle user stories zijn uitvoerbaar in het product.
+  - De belangrijkste features uit de productvisie zijn geïmplementeerd en vrijwel alle user stories zijn uitvoerbaar in het product.
+  - Het product is minimaal. De belangrijkste user story is uitvoerbaar.
+  - Het product is zeer incompleet.
+* - Correctheid
+  - De geïmplementeerde functionaliteit werkt zoals verwacht. Ook als gebruikers het product op een andere manier gebruiken dan vooraf gepland, zijn er geen fatale fouten.
+  - De meeste functionaliteit werkt zoals verwacht en met een aantal belangrijke onverwachte situaties is rekening gehouden. Soms werkt iets niet, maar dat is voor de gebruiker duidelijk en het maakt het product niet onbruikbaar.
+  - De belangrijkste functionaliteit werkt zoals verwacht. Het product is niet onbruikbaar door dingen die niet werken.
+  - Veel functionaliteit werkt niet of het product is onbruikbaar door de zaken die niet werken.
+  
+:::
 
 *~~Nog niet alle domeinen zijn volledig uitgewerkt.~~ Alle domeinen zijn nog niet volledig uitgewerkt. Laat vooral weten van welke domeinen jullie de eisen willen weten, dan komen die bovenaan de takenlijst! Zijn er domeinen die je mist? Laat het ook weten! Staat er al een beoordeling, maar past jullie project niet helemaal binnen het kader? Overleg dan zo vroeg mogelijk hoe we daar een mouw aan kunnen passen.*
 
@@ -143,6 +166,39 @@ Jullie project heeft een website. Dat kan het hoofddoel van het project zijn, ma
 ### Programmeren
 
 Jullie project heeft code. Bijvoorbeeld in Python, JavaScript, Processing of Arduino C++, maar andere programmeertalen tellen ook (behalve HTML en CSS, die vallen onder [*Website*](#website)). We kijken of de code correct is en of het netjes geschreven is.
+
+:::{list-table}
+:header-rows: 1
+:stub-columns: 1
+:width: 100%
+
+* -
+  - Goed
+  - Ruim voldoende
+  - Matig
+  - Onvoldoende
+* - Uitvoerbaarheid
+  - De code is uitvoerbaar en te testen door een docent. In de README is aangegeven welke software vereist is en welke stappen genomen moeten worden om het uit te voeren (en die kloppen ook).
+  - De code is uitvoerbaar en te testen door een docent. In de README is aangegeven welke software vereist is en welke stappen genomen moeten worden om het uit te voeren (en die kloppen bijna).
+  - De code is uitvoerbaar en te testen door een docent, maar daarvoor zijn wel wat kleine aanpassingen of wat uitzoekwerk nodig.
+  - De code is niet redelijkerwijs uitvoerbaar.
+* - Structuur
+  - De code heeft een heldere structuur: de verschillende onderdelen van het programma zijn logisch uitgesplitst en makkelijk te herkennen en te vinden.
+  -
+  -
+  -
+* - Naamgeving
+  - Alle variabelen, functies, methoden, classes, bestanden en andere dingen die een naam kunnen krijgen, hebben een duidelijk beschrijvende naam waardoor helder is waar dat ding voor is.
+  -
+  -
+  -
+* - Commentaar en documentatie
+  - De code is voorzien van voldoende commentaar of documentatie om goed te kunnen volgen wat de code doet, zonder elke regel tot in detail te lezen.
+  -
+  -
+  -
+
+:::
 
 ### Computerbouw
 
@@ -156,9 +212,55 @@ Jullie project heeft een Arduino of andere microcontroller om met sensoren en ac
 
 Jullie project heeft een gebruikersinterface en die is bruikbaar. Je hebt dit ook getest met echte gebruikers in een gebruikersonderzoek en de resultaten daarvan verwerkt in een nieuwe versie van het product. We beoordelen de uitleg die jullie geven over de keuzes die gemaakt zijn en de uitvoering en verwerking van de resultaten van het gebruikersonderzoek.
 
+:::{list-table}
+:header-rows: 1
+:stub-columns: 1
+:width: 100%
+
+* -
+  - Goed
+  - Ruim voldoende
+  - Matig
+  - Onvoldoende
+* - Vuistregels
+  - Het product voldoet aan enkele vuistregels voor goed design (bijvoorbeeld Nielsen's 10 heuristieken), zodat het systeem eenvoudig te gebruiken is. In een begeleidend document (in wat voor vorm dan ook) leggen jullie uit waarom bepaalde keuzes gemaakt zijn.
+  -
+  -
+  -
+* - Gebruikersonderzoek
+  - Het product is getest met meerdere testgebruikers. Zij hebben concrete taken gekregen en zijn geobserveerd bij de uitvoering. Opvallende problemen in de gebruikerservaring zijn verbeterd in het eindproduct. De resultaten van de testen zijn gedocumenteerd.
+  -
+  -
+  -
+
+:::
+
 ### User experience
 
 UX gaat over de invloed van het ontwerp op cognitieve, gedragsmatige en affectieve veranderingen. Met jullie product willen jullie de wereld veranderen (hopelijk ten goede) en je legt duidelijk uit hoe het product die verandering teweeg gaat brengen bij gebruikers. Je hebt dit ook getest met echte gebruikers.
+
+:::{list-table}
+:header-rows: 1
+:stub-columns: 1
+:width: 100%
+
+* -
+  - Goed
+  - Ruim voldoende
+  - Matig
+  - Onvoldoende
+* - Doelbeschrijving en verantwoording
+  - In een begeleidend document (in wat voor vorm dan ook) leggen jullie helder uit welke verandering jullie teweeg willen brengen bij de gebruiker en hoe het product die verandering teweeg brengt. Daarbij worden concrete ontwerpbesluiten genoemd en wordt verwezen naar bronnen die die keuzes ondersteunen.
+  -
+  -
+  -
+* - Gebruikersonderzoek
+  - Het product is getest met meerdere testgebruikers, om uit te zoeken of de verandering bij de gebruiker echt plaatsvindt. Bij deze tests is er extra op gelet dat de gebruikers niet gestuurd worden door de vragen. De resultaten van dit onderzoek zijn gedocumenteerd.
+  -
+  -
+  -
+
+:::
 
 ### Databases
 
