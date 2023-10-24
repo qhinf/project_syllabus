@@ -2,7 +2,7 @@
 
 *Dit is een opdracht voor de Product owner en de Scrum master.*
 
-De module is voorbij, jullie producten zijn (zo ver als mogelijk) af en dus is er nog maar één ding te doen: de oplevering. Dat betekent dat het product netjes wordt ingepakt en ingeleverd en dat jullie het in een presentatie demonstreren.
+De module is voorbij, jullie producten zijn (zo ver als mogelijk) af en dus is er nog maar één ding te doen: de oplevering. Dat betekent dat het product netjes wordt ingepakt en ingeleverd en dat jullie het in een presentatie demonstreren. De eindoplevering vindt plaats op {{ datum_eindoplevering }}.
 
 ## Presentatie
 
@@ -50,4 +50,4 @@ Project
    |- logo.png
 ```
 
-Pak die map in tot een .zip bestand (zie [hier](https://informatica.q-highschool.nl/informatie/meerdere-bestanden-inleveren) voor hulp daarbij) en lever het in op [app.q-highschool.nl](https://app.q-highschool.nl).
+Pak die map in tot een .zip bestand (zie [hier](https://informatica.q-highschool.nl/informatie/meerdere-bestanden-inleveren) voor hulp daarbij) en lever het in op [app.q-highschool.nl](https://app.q-highschool.nl). Het product dient op {{ datum_eindoplevering }} voor de presentaties ingeleverd te zijn.
