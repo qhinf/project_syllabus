@@ -29,6 +29,7 @@ De scrum master levert het product in. Daar hoort bij:
   - Een korte beschrijving van het product, met een paar screenshots of foto's
   - Hoe het product uitgevoerd kan worden
   - Eventuele uitleg die nodig is voor de beoordeling (bijvoorbeeld resultaten van een gebruikersonderzoek)
+  - Op welke [drie domeinen](beoordeling.md#eindproduct) het product beoordeeld moet worden
 - Het werkende eindproduct, dus:
   - Voor een programma: bij voorkeur een uitvoerbaar bestand (Windows *.exe* en/of Linux binary)
     - Als dat niet kan, dan duidelijke uitleg over hoe het programma uitgevoerd dient te worden
