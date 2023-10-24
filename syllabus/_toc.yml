@@ -19,7 +19,6 @@ parts:
     chapters:
     - file: startopdracht
     - file: sprint_review
+    - file: eindoplevering
     # - samenwerking reflectie
-    # - sprint review opdracht
-    # - eindoplevering
   # - caption: Domeinen # Per domein nuttige hulpmiddelen

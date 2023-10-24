@@ -17,6 +17,8 @@ Als Product Owner geef je een korte presentatie (maximaal 5 minuten) over de sta
 - Wat willen jullie nu als eerste toevoegen aan je product?
 - Welk cijfer geef je de samenwerking in je team?
 
+Het is de verantwoordelijkheid van de Product owner dat deze presentatie gegeven wordt, maar dat betekent niet per se dat de Product owner zelf presenteert. Als die er bijvoorbeeld niet bij kan zijn, moet een teamgenoot het over nemen. Maar je kunt ook sowieso besluiten om met de hele groep te presenteren. Of een iemand die presenteert en een ander die de demo verzorgt. Als er maar een presentatie is!
+
 Na deze presentatie is er nog de mogelijkheid om een paar vragen te stellen (aan het publiek of door het publiek aan de presentator).
 
 Zet na afloop van je presentatie je slides in de Product Owners-map van jullie Teamskanaal.
