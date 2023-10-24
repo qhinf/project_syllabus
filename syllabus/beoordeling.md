@@ -163,6 +163,34 @@ In het project combineren jullie de kennis die je uit eerdere modules meeneemt e
 
 Jullie project heeft een website. Dat kan het hoofddoel van het project zijn, maar een kleine homepagina voor jullie game is ook een leuke toevoeging. De website beoordelen we op de HTML en CSS code en op het design.
 
+:::{list-table}
+:header-rows: 1
+:stub-columns: 1
+:width: 100%
+
+* -
+  - Goed
+  - Ruim voldoende
+  - Matig
+  - Onvoldoende
+* - Design
+  - De website heeft een helder design: het doel is duidelijk, de structuur is overzichtelijk en de navigatie is eenvoudig. Alle teksten zijn goed leesbaar. Er is goed gebruik gemaakt van lettertypes, kleuren en afbeeldingen.
+  -
+  -
+  -
+* - HTML
+  - De HTML-code heeft een consistente opmaak met logische indentatie. De HTML is correct, dus er zijn geen onafgesloten elementen, niet-bestaande elementen of attributen etc. Er is gebruik gemaakt van structuurelementen en logische tussenkopjes (`h1`, `h2` etc.)
+  -
+  -
+  -
+* - CSS
+  - De CSS-code heeft een consistente opmaak met logische indentatie. CSS die op meerdere pagina's van toepassing is, staat in een los bestand dat op elke pagina gebruikt wordt. Meerdere mogelijkheden van CSS worden gebruikt, zoals teksteigenschappen, kleuren, borders, linkstijlen en verschillende layouteigenschappen.
+  -
+  -
+  -
+
+:::
+
 ### Programmeren
 
 Jullie project heeft code. Bijvoorbeeld in Python, JavaScript, Processing of Arduino C++, maar andere programmeertalen tellen ook (behalve HTML en CSS, die vallen onder [*Website*](#website)). We kijken of de code correct is en of het netjes geschreven is.
