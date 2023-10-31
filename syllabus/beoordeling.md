@@ -144,7 +144,7 @@ In het project combineren jullie de kennis die je uit eerdere modules meeneemt e
   - Ruim voldoende
   - Matig
   - Onvoldoende
-* - Functionaliteit
+* - Functionaliteit[^func]
   - Het product is uitgebreid, alle features uit de productvisie zijn geïmplementeerd en alle user stories zijn uitvoerbaar in het product.
   - De belangrijkste features uit de productvisie zijn geïmplementeerd en vrijwel alle user stories zijn uitvoerbaar in het product.
   - Het product is minimaal. De belangrijkste user story is uitvoerbaar.
@@ -154,8 +154,10 @@ In het project combineren jullie de kennis die je uit eerdere modules meeneemt e
   - De meeste functionaliteit werkt zoals verwacht en met een aantal belangrijke onverwachte situaties is rekening gehouden. Soms werkt iets niet, maar dat is voor de gebruiker duidelijk en het maakt het product niet onbruikbaar.
   - De belangrijkste functionaliteit werkt zoals verwacht. Het product is niet onbruikbaar door dingen die niet werken.
   - Veel functionaliteit werkt niet of het product is onbruikbaar door de zaken die niet werken.
-  
+
 :::
+
+[^func]: Met alle features bedoelen we alle features die redelijkerwijs te verwachten zijn. We willen je hier niet afstraffen op een ambitieuze productvisie.
 
 *~~Nog niet alle domeinen zijn volledig uitgewerkt.~~ Alle domeinen zijn nog niet volledig uitgewerkt. Laat vooral weten van welke domeinen jullie de eisen willen weten, dan komen die bovenaan de takenlijst! Zijn er domeinen die je mist? Laat het ook weten! Staat er al een beoordeling, maar past jullie project niet helemaal binnen het kader? Overleg dan zo vroeg mogelijk hoe we daar een mouw aan kunnen passen.*
 
