@@ -9,6 +9,7 @@ options:
 parts:
   - caption: Over de module
     chapters:
+    - file: planning
     - file: rollen
     - file: beoordeling
   - caption: Tools # Handleidingen voor GitHub, Trello, Teams e.d.
