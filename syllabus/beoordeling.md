@@ -46,11 +46,11 @@ De samenwerking beoordelen we vanaf het begin van de module en *in week 6* ronde
 * - ...
     
     Wat vinden jullie belangrijk?
-  -
-  -
-  -
-  -
-:::
+    -
+    -
+    -
+    -
+    :::
 
 Daarnaast hebben we voor de verschillende rollen ook een specifieke rubric:
 
@@ -74,7 +74,7 @@ Daarnaast hebben we voor de verschillende rollen ook een specifieke rubric:
   - Als teamgenoten ergens tegenaan lopen, dan help ik ze zelf weer op gang, maar dat gaat wel ten koste van mijn eigen taken. Als er iets geregeld moet worden, dan pak ik dat op.
   - Ik ben niet altijd responsief bij hulpvragen van teamgenoten, maar tijdens de weekly standup geef ik wel aandacht aan hulpvragen. Als er iets geregeld moet worden, dan laat ik dat impliciet door iemand anders oppakken.
   - Ik ben gefocust op mijn eigen taken en ondersteun mijn team niet of nauwelijks bij hulpvragen of dingen die geregeld moeten worden.
-:::
+  :::
 
 :::{list-table} Product owner
 :header-rows: 1
@@ -101,7 +101,7 @@ Daarnaast hebben we voor de verschillende rollen ook een specifieke rubric:
   - 
   - 
   - 
-:::
+  :::
 
 :::{list-table} Developer
 :header-rows: 1
@@ -128,11 +128,19 @@ Daarnaast hebben we voor de verschillende rollen ook een specifieke rubric:
   - Ik kies mijn taken op basis van de kennis die ik al heb, maar ik ga een uitdaging niet uit de weg als die zich voordoet. Zo verdiep ik mijn technische kennis op de terreinen waar ik al ervaring heb.
   - Ik beperk mij tot de technische aspecten waar ik al eerder mee gewerkt heb. Als zich uitdagingen voordoen die ik niet kan oplossen zonder extra kennis, zorg ik dat anderen dat op zich nemen.
   - Ik laat mij soms overspoelen door technische uitdagingen waarvoor ik niet de benodigde kennis heb en die ook niet wil of kan verkrijgen.
-:::
+  :::
 
+
+(beoordeling_eindproduct)=
 ## Eindproduct
 
 In het project combineren jullie de kennis die je uit eerdere modules meeneemt en dus beoordelen we het product ook aan de hand van de domeinen die op jullie product van toepassing zijn. Jullie mogen zelf drie domeinen kiezen op basis waarvan het product beoordeeld wordt en als resultaat geldt het gemiddelde van die drie en de algemene productrubric. Voor een voldoende moet het product dus in minstens twee domeinen vallen! Hieronder staat de algemene productrubric en voor elk van de domeinen een rubric die beschrijft hoe een goed product er vanuit dat domein uitziet.
+
+Er zitten criteria in deze lijst, die nog geen rubric hebben. Je mag deze criteria nog steeds kiezen, dan stellen de docenten hier een rubric voor op. Dus laat je niet beperken door het ontbreken van een rubric.
+
+Tijdens de {ref}`sprint_review` geef je in je presentatie aan op welke criteria jullie je product beoordeeld willen hebben. Je moet er drie kiezen. Twee voorbeelden van criteria-sets die jullie kunnen kiezen:
+- Algemene productrubric, Website, User Experience
+- AI, Interactie, Programmeren
 
 :::{list-table} Algemene productrubric
 :header-rows: 1
