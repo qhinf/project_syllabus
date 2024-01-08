@@ -17,7 +17,7 @@ De samenwerking beoordelen we vanaf het begin van de module en *in week 6* ronde
   - Expert
   - Gevorderd
   - In ontwikkeling
-  - Beginner
+  - Pannenkoek
 * - Afspraken weten
   - Ik heb overzicht over de gemaakte afspraken.
   - Ik weet goed wat er is afgesproken.
@@ -46,11 +46,11 @@ De samenwerking beoordelen we vanaf het begin van de module en *in week 6* ronde
 * - ...
     
     Wat vinden jullie belangrijk?
-    -
-    -
-    -
-    -
-    :::
+  -
+  -
+  -
+  -
+:::
 
 Daarnaast hebben we voor de verschillende rollen ook een specifieke rubric:
 
@@ -63,7 +63,7 @@ Daarnaast hebben we voor de verschillende rollen ook een specifieke rubric:
   - Expert
   - Gevorderd
   - In ontwikkeling
-  - Beginner
+  - Pannenkoek
 * - Taken verdelen en monitoren
   - Ik zorg dat alle taken helder beschreven zijn en dat iedereen weet welke taken wanneer van hen verwacht worden. Ik spreek mijn teamgenoten erop aan als zij zich daar niet aan houden. Bij de weekly standup vraag ik net zo lang door totdat voor iedereen helder is wat ieder teamlid concreet gedaan heeft.
   - Ik zorg dat alle taken helder beschreven zijn en dat iedereen weet welke taken wanneer van hen verwacht worden. Ik vergeet soms om mijn teamgenoten aan te spreken als afspraken niet gehaald worden. In de weekly standup stimuleer ik mijn teamgenoten om hun voortgang te delen.
@@ -85,7 +85,7 @@ Daarnaast hebben we voor de verschillende rollen ook een specifieke rubric:
   - Expert
   - Gevorderd
   - In ontwikkeling
-  - Beginner
+  - Pannenkoek
 * - Productvisie
   - De productvisie geeft een helder beeld van het product en bevat alle vereiste onderdelen (visie, doelgroep, behoefte, unieke kenmerken en doelen). De user stories zijn concreet en relevant voor het project. Samen geeft dit genoeg informatie voor het team om beslissingen te kunnen nemen in lijn met het beoogde eindproduct.
   - De productvisie geeft een goed beeld van het product en bevat alle vereiste onderdelen. De user stories zijn concreet. De productvisie heeft nog enkele verduidelijkingen nodig om alle vragen vanuit het team te kunnen beantwoorden.
@@ -112,7 +112,7 @@ Daarnaast hebben we voor de verschillende rollen ook een specifieke rubric:
   - Expert
   - Gevorderd
   - In ontwikkeling
-  - Beginner
+  - Pannenkoek
 * - Focus
   - Ik ben gefocust op mijn taken en laat mij niet afleiden door dingen die er niet toe doen. Als ik ergens op vastloop, schakel ik mijn scrum master in.
   - Ik ben meestal gefocust op mijn taken, maar laat me af en toe afleiden. Als ik ergens op vastloop, schakel in mijn scrum master in.
