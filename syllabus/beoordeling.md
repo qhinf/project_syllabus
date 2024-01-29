@@ -46,11 +46,11 @@ De samenwerking beoordelen we vanaf het begin van de module en *in week 6* ronde
 * - ...
     
     Wat vinden jullie belangrijk?
-  -
-  -
-  -
-  -
-:::
+    -
+    -
+    -
+    -
+    :::
 
 Daarnaast hebben we voor de verschillende rollen ook een specifieke rubric:
 
@@ -302,7 +302,34 @@ UX gaat over de invloed van het ontwerp op cognitieve, gedragsmatige en affectie
 
 ### Databases
 
-Jullie project heeft een database om gegevens in te bewaren. We beoordelen de kwaliteit van het datamodel en de SQL queries die jullie geschreven hebben.
+Jullie project heeft een database om gegevens in te bewaren. We beoordelen de kwaliteit van het datamodel en de SQL queries die jullie geschreven hebben. De criteria worden gemeten met de maat van de module Databases & SQL.
+
+:::{list-table}
+:header-rows: 1
+:stub-columns: 1
+:width: 100%
+
+* -
+  - Goed
+  - Ruim voldoende
+  - Matig
+  - Onvoldoende
+* - Niveau van uitwerking van het datamodel
+  - Een beschrijving van het datamodel in de vorm van een SQL datadump of tabel beschrijving is aanwezig inclusief een verantwoording van de keuzes. Een ERD is ook aanwezig.
+  - Een beschrijving van het datamodel in de vorm van een SQL datadump of tabel beschrijving is aanwezig inclusief een verantwoording van de keuzes.
+  - Een beschrijving van het datamodel in de vorm van een SQL datadump of tabel beschrijving is aanwezig.
+  - Geen beschrijving van het datamodel of verantwoording aanwezig.
+* - Mate van optimalisatie van de tabelstructuur
+  - Alle meer-op-meer relaties zijn geoptimaliseerd *en* de structuur is in 3e normaalvorm.
+  - Alle meer-op-meer relaties zijn geoptimaliseerd *en* de structuur is in 1e normaalvorm.
+  - Alle meer-op-meer relaties zijn geoptimaliseerd *of* de structuur is in 1e normaalvorm.
+  - Geen optimalisatie en ontbrekende verantwoording/uitwerking aanwezig.
+* - Kwaliteit queries
+  - De queries zijn syntactisch correct, tasten de integretiteit van het datamodel niet aan. Bij toevoeging en verwijdering van entries wordt de integriteit van het datamodel niet aangetast.
+  - 
+  -
+  -
+:::
 
 ### Security
 
