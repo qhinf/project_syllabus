@@ -43,14 +43,13 @@ De samenwerking beoordelen we vanaf het begin van de module en *in week 6* ronde
   - Ik ben me bewust van mijn voorkeursrol en kies een rol waarin ik me kan verbeteren.
   - Ik kies een rol die me leuk lijkt en aansluit bij wat ik kan.
   - Ik kies niet bewust voor een rol maar doe wat op dat moment goed voelt.
-* - ...
-    
-    Wat vinden jullie belangrijk?
-    -
-    -
-    -
-    -
-    :::
+* - Wat vinden jullie belangrijk?
+  - ...
+  - ...
+  - ...
+  - ...
+
+:::
 
 Daarnaast hebben we voor de verschillende rollen ook een specifieke rubric:
 
@@ -74,7 +73,8 @@ Daarnaast hebben we voor de verschillende rollen ook een specifieke rubric:
   - Als teamgenoten ergens tegenaan lopen, dan help ik ze zelf weer op gang, maar dat gaat wel ten koste van mijn eigen taken. Als er iets geregeld moet worden, dan pak ik dat op.
   - Ik ben niet altijd responsief bij hulpvragen van teamgenoten, maar tijdens de weekly standup geef ik wel aandacht aan hulpvragen. Als er iets geregeld moet worden, dan laat ik dat impliciet door iemand anders oppakken.
   - Ik ben gefocust op mijn eigen taken en ondersteun mijn team niet of nauwelijks bij hulpvragen of dingen die geregeld moeten worden.
-  :::
+  
+:::
 
 :::{list-table} Product owner
 :header-rows: 1
@@ -101,7 +101,8 @@ Daarnaast hebben we voor de verschillende rollen ook een specifieke rubric:
   - 
   - 
   - 
-  :::
+
+:::
 
 :::{list-table} Developer
 :header-rows: 1
@@ -128,7 +129,8 @@ Daarnaast hebben we voor de verschillende rollen ook een specifieke rubric:
   - Ik kies mijn taken op basis van de kennis die ik al heb, maar ik ga een uitdaging niet uit de weg als die zich voordoet. Zo verdiep ik mijn technische kennis op de terreinen waar ik al ervaring heb.
   - Ik beperk mij tot de technische aspecten waar ik al eerder mee gewerkt heb. Als zich uitdagingen voordoen die ik niet kan oplossen zonder extra kennis, zorg ik dat anderen dat op zich nemen.
   - Ik laat mij soms overspoelen door technische uitdagingen waarvoor ik niet de benodigde kennis heb en die ook niet wil of kan verkrijgen.
-  :::
+  
+:::
 
 
 (beoordeling_eindproduct)=
@@ -329,6 +331,7 @@ Jullie project heeft een database om gegevens in te bewaren. We beoordelen de kw
   - 
   -
   -
+
 :::
 
 ### Security
