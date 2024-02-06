@@ -140,9 +140,10 @@ In het project combineren jullie de kennis die je uit eerdere modules meeneemt e
 
 Er zitten criteria in deze lijst, die nog geen rubric hebben. Je mag deze criteria nog steeds kiezen, dan stellen de docenten hier een rubric voor op. Dus laat je niet beperken door het ontbreken van een rubric.
 
-Tijdens de {ref}`sprint_review` geef je in je presentatie aan op welke criteria jullie je product beoordeeld willen hebben. Je moet er drie kiezen. Twee voorbeelden van criteria-sets die jullie kunnen kiezen:
-- Algemene productrubric, Website, User Experience
-- AI, Interactie, Programmeren
+Tijdens de {ref}`sprint_review` geef je in je presentatie aan op welke criteria jullie je product beoordeeld willen hebben. De algemene productrubric is altijd van toepassing, en daarnaast kies je drie domeinen. Drie voorbeelden van criteria-sets die jullie kunnen kiezen (andere combinaties mogelijk):
+- Website, Interactie, User experience
+- AI, Programmeren, Maatschappelijke invloed
+- Programmeren, Databases, Security
 
 :::{list-table} Algemene productrubric
 :header-rows: 1
