@@ -188,14 +188,14 @@ Jullie project heeft een website. Dat kan het hoofddoel van het project zijn, ma
   - Onvoldoende
 * - Design
   - De website heeft een helder design: het doel is duidelijk, de structuur is overzichtelijk en de navigatie is eenvoudig. Alle teksten zijn goed leesbaar. Er is goed gebruik gemaakt van lettertypes, kleuren en afbeeldingen.
-  -
-  -
-  -
+  - Het doel van de website is duidelijk en alle onderdelen zijn zonder veel nadenken te vinden. Er is aandacht besteed aan de lettertypes, kleuren en afbeeldingen.
+  - De website is op sommige punten onoverzichtelijk, maar wel te gebruiken. Alle teksten zijn leesbaar.
+  - De website is vrijwel onbruikbaar, bijvoorbeeld door zeer onoverzichtelijke organisatie, slechte navigatie of onleesbare teksten.
 * - HTML
   - De HTML-code heeft een consistente opmaak met logische indentatie. De HTML is correct, dus er zijn geen onafgesloten elementen, niet-bestaande elementen of attributen etc. Er is gebruik gemaakt van structuurelementen en logische tussenkopjes (`h1`, `h2` etc.)
-  -
-  -
-  -
+  - De HTML-code is leesbaar en meestal correct, dus vrijwel geen onafgesloten of niet-bestaande elementen etc. Er is gebruik gemaakt van structuurelementen en logische tussenkopjes (`h1`, `h2` etc.)
+  - De HTML-code levert een werkende website op, die in de browser goed wordt weergegeven.
+  - De HTML-code wordt zelfs door de browser niet begrepen (en de website ziet er dus niet zo uit als bedoeld).
 * - CSS
   - De CSS-code heeft een consistente opmaak met logische indentatie. CSS die op meerdere pagina's van toepassing is, staat in een los bestand dat op elke pagina gebruikt wordt. Meerdere mogelijkheden van CSS worden gebruikt, zoals teksteigenschappen, kleuren, borders, linkstijlen en verschillende layouteigenschappen.
   -
