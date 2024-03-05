@@ -97,10 +97,10 @@ Daarnaast hebben we voor de verschillende rollen ook een specifieke rubric:
   - Bij presentaties noem je zowel de productvisie en de huidige staat van het product en maakt daar duidelijk onderscheid in. Bij demonstraties geef je een helder beeld van het product.
   - Bij presentaties geef je een goed beeld van de huidige staat van het product, maar de link naar de visie blijft een beetje vaag. Bij demonstraties laat je het product zien, maar het wordt niet helemaal duidelijk hoe het product gebruikt kan worden.
 * - Kwaliteitsbewaking
-  - Ik test het product regelmatig en houdt daarbij in de gaten of het product in lijn is met de visie. Ik laat het product uitproberen door personen uit onze doelgroep, om te kijken of het product ook in de praktijk werkt.
-  - 
-  - 
-  - 
+  - Ik test het product regelmatig en houd daarbij in de gaten of het product in lijn is met de visie. Ik laat het product uitproberen door personen uit onze doelgroep, om te kijken of het product ook in de praktijk werkt.
+  - Ik test zelf het product regelmatig en houd daarbij in de gaten of het product in lijn is met de visie.
+  - Ik houd in de gaten of de uitgevoerde taken in lijn zijn met de productvisie, maar kijk niet naar het product als geheel.
+  - Na het schrijven van de productvisie ben ik het doel zelf ook uit het oog verloren.
 
 :::
 
