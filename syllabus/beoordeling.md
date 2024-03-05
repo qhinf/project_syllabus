@@ -225,19 +225,19 @@ Jullie project heeft code. Bijvoorbeeld in Python, JavaScript, Processing of Ard
   - De code is niet redelijkerwijs uitvoerbaar.
 * - Structuur
   - De code heeft een heldere structuur: de verschillende onderdelen van het programma zijn logisch uitgesplitst en makkelijk te herkennen en te vinden.
-  -
-  -
-  -
+  - De code heeft doorgaans een heldere structuur: de verschillende onderdelen van het programma zijn over het algemeen logisch uitgesplitst en makkelijk te herkennen en te vinden.
+  - De structuur van de code is niet altijd even helder: sommige onderdelen zijn niet logisch uitgesplitst en/of moeilijk te herkennen en te vinden.
+  - De code heeft geen heldere structuur: de verschillende onderdelen zijn niet logisch uitgesplitst en moeilijk te herkennen en te vinden.
 * - Naamgeving
   - Alle variabelen, functies, methoden, classes, bestanden en andere dingen die een naam kunnen krijgen, hebben een duidelijk beschrijvende naam waardoor helder is waar dat ding voor is.
-  -
-  -
-  -
+  - Vrijwel alle variabelen, functies, methoden, classes, bestanden en andere dingen die een naam kunnen krijgen, hebben een duidelijk beschrijvende naam waardoor het doorgaans helder is waar dat ding voor is.
+  - De variabelen, functies, methoden, classes, bestanden en andere dingen die een naam kunnen krijgen hebben een enigzins beschrijvende naam, maar het is niet bij alles duidelijk waar dat ding voor is.
+  - De variabelen, functies, methoden, classes, bestanden en andere dingen die een naam kunnen krijgen hebben geen beschrijvende namen.
 * - Commentaar en documentatie
   - De code is voorzien van voldoende commentaar of documentatie om goed te kunnen volgen wat de code doet, zonder elke regel tot in detail te lezen.
-  -
-  -
-  -
+  - De code is doorgaans voorzien van voldoende commentaar of documentatie om goed te kunnen volgen wat de code doet, zonder dat altijd elke regel tot in detail moet worden gelezen.
+  - De code heeft niet voldoende commentaar of documentatie om goed te kunnen volgen wat de code doet. De regels code moeten vaak tot in detail worden gelezen om te begrijpen wat ze nou precies doen.
+  - De code heeft geen commentaar of documentatie. De regels code moeten tot in detail worden gelezen om te begrijpen wat ze nou precies doen.
 
 :::
 
