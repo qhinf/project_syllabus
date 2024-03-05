@@ -9,7 +9,7 @@
 |   5    | 05-03-2024 | Weekly standup 3                            | Online        | 14.30 - 17.30u |
 |   6    | 12-03-2024 | Sprint review                               | Fysiek        | 14.30 - 17.30u |
 |   7    | 19-03-2024 | Weekly standup 5                            | Online        | 14.30 - 17.30u |
-|   8    | 26-03-2024 | Eindoplevering                              | Fysiek (!)    | 14.30 - 16.30u |
+|   8    | 26-03-2024 | Eindoplevering                              | Fysiek (!)    | 14.30 - 16.00u |
 
 :::{Warning}
 Week 8 is een bijzondere week. Deze valt mogelijk in je toetsweek.
