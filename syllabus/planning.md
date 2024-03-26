@@ -2,14 +2,14 @@
 
 | Weeknr | Datum      | Activiteit                                  | Fysiek/online | Tijdstip       |
 | :----: | :--------- | ------------------------------------------- | ------------- | -------------- |
-|   1    | 30-01-2024 | Kleine start                                | Online        | 14.30 - 16.00u |
-|   2    | 06-02-2024 | Grote start                                 | Fysiek[^1]    | 14.30 - 17.30u |
-|   3    | 20-02-2024 | Weekly standup 1                            | Online        | 14.30 - 17.30u |
-|   4    | 27-02-2024 | Weekly standup 2 + reflectie op samenwerken | Fysiek        | 14.30 - 17.30u |
-|   5    | 05-03-2024 | Weekly standup 3                            | Online        | 14.30 - 17.30u |
-|   6    | 12-03-2024 | Sprint review                               | Fysiek        | 14.30 - 17.30u |
-|   7    | 19-03-2024 | Weekly standup 5                            | Online        | 14.30 - 17.30u |
-|   8    | 26-03-2024 | Eindoplevering                              | Fysiek (!)    | 14.30 - 16.00u |
+|   1    | 01-04-2024 | Eerste Paasdag/geen bijeenkomst             | -             | -              |
+|   2    | 08-04-2024 | Grote start. Hier *moet* je bij zijn.       | Fysiek[^1]    | 14.30 - 17.30u |
+|   3    | 15-04-2024 | Weekly standup 1                            | Online        | 14.30 - 17.30u |
+|   4    | 22-04-2024 | Weekly standup 2 + reflectie op samenwerken | Fysiek        | 14.30 - 17.30u |
+|   5    | 13-05-2024 | Weekly standup 3                            | Online        | 14.30 - 17.30u |
+|   6    | 27-05-2024 | Sprint review                               | Fysiek        | 14.30 - 17.30u |
+|   7    | 03-06-2024 | Weekly standup 5                            | Online        | 14.30 - 17.30u |
+|   8    | 10-06-2024 | Eindoplevering                              | Fysiek (!)    | 14.30 - 16.00u |
 
 :::{Warning}
 Week 8 is een bijzondere week. Deze valt mogelijk in je toetsweek.
