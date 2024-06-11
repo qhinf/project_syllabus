@@ -151,10 +151,10 @@ Tijdens de {ref}`sprint_review` geef je in je presentatie aan op welke criteria 
 :width: 100%
 
 * -
-  - Goed
-  - Ruim voldoende
-  - Matig
-  - Onvoldoende
+  - Goed (10)
+  - Ruim voldoende (7)
+  - Matig (5)
+  - Onvoldoende (3)
 * - Functionaliteit[^func]
   - Het product is uitgebreid, alle features uit de productvisie zijn geïmplementeerd en alle user stories zijn uitvoerbaar in het product.
   - De belangrijkste features uit de productvisie zijn geïmplementeerd en vrijwel alle user stories zijn uitvoerbaar in het product.
@@ -182,10 +182,10 @@ Jullie project heeft een website. Dat kan het hoofddoel van het project zijn, ma
 :width: 100%
 
 * -
-  - Goed
-  - Ruim voldoende
-  - Matig
-  - Onvoldoende
+  - Goed (10)
+  - Ruim voldoende (7)
+  - Matig (5)
+  - Onvoldoende (3)
 * - Design
   - De website heeft een helder design: het doel is duidelijk, de structuur is overzichtelijk en de navigatie is eenvoudig. Alle teksten zijn goed leesbaar. Er is goed gebruik gemaakt van lettertypes, kleuren en afbeeldingen.
   - Het doel van de website is duidelijk en alle onderdelen zijn zonder veel nadenken te vinden. Er is aandacht besteed aan de lettertypes, kleuren en afbeeldingen.
@@ -214,10 +214,10 @@ Jullie project heeft code. Bijvoorbeeld in Python, JavaScript, Processing of Ard
 :width: 100%
 
 * -
-  - Goed
-  - Ruim voldoende
-  - Matig
-  - Onvoldoende
+  - Goed (10)
+  - Ruim voldoende (7)
+  - Matig (5)
+  - Onvoldoende (3)
 * - Uitvoerbaarheid
   - De code is uitvoerbaar en te testen door een docent. In de README is aangegeven welke software vereist is en welke stappen genomen moeten worden om het uit te voeren (en die kloppen ook).
   - De code is uitvoerbaar en te testen door een docent. In de README is aangegeven welke software vereist is en welke stappen genomen moeten worden om het uit te voeren (en die kloppen bijna).
@@ -259,10 +259,10 @@ Jullie project heeft een gebruikersinterface en die is bruikbaar. Je hebt dit oo
 :width: 100%
 
 * -
-  - Goed
-  - Ruim voldoende
-  - Matig
-  - Onvoldoende
+  - Goed (10)
+  - Ruim voldoende (7)
+  - Matig (5)
+  - Onvoldoende (3)
 * - Vuistregels
   - Het product voldoet aan enkele vuistregels voor goed design (bijvoorbeeld Nielsen's 10 heuristieken), zodat het systeem eenvoudig te gebruiken is. In een begeleidend document (in wat voor vorm dan ook) leggen jullie uit waarom bepaalde keuzes gemaakt zijn.
   -
@@ -286,10 +286,10 @@ UX gaat over de invloed van het ontwerp op cognitieve, gedragsmatige en affectie
 :width: 100%
 
 * -
-  - Goed
-  - Ruim voldoende
-  - Matig
-  - Onvoldoende
+  - Goed (10)
+  - Ruim voldoende (7)
+  - Matig (5)
+  - Onvoldoende (3)
 * - Doelbeschrijving en verantwoording
   - In een begeleidend document (in wat voor vorm dan ook) leggen jullie helder uit welke verandering jullie teweeg willen brengen bij de gebruiker en hoe het product die verandering teweeg brengt. Daarbij worden concrete ontwerpbesluiten genoemd en wordt verwezen naar bronnen die die keuzes ondersteunen.
   -
@@ -313,10 +313,10 @@ Jullie project heeft een database om gegevens in te bewaren. We beoordelen de kw
 :width: 100%
 
 * -
-  - Goed
-  - Ruim voldoende
-  - Matig
-  - Onvoldoende
+  - Goed (10)
+  - Ruim voldoende (7)
+  - Matig (5)
+  - Onvoldoende (3)
 * - Niveau van uitwerking van het datamodel
   - Een beschrijving van het datamodel in de vorm van een SQL datadump of tabel beschrijving is aanwezig inclusief een verantwoording van de keuzes. Een ERD is ook aanwezig.
   - Een beschrijving van het datamodel in de vorm van een SQL datadump of tabel beschrijving is aanwezig inclusief een verantwoording van de keuzes.
