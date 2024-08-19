@@ -1,5 +1,8 @@
 # Planning
 
+De eerste bijeenkomst is op 26 augustus van 14:30 tot 16:00 via Teams. De planning van de overige bijeenkomsten volgt nog, maar houd er in ieder geval rekening mee dat ze allen van 14:30 tot 17:30 duren.
+
+<!--
 | Weeknr | Datum      | Activiteit                                  | Fysiek/online | Tijdstip       |
 | :----: | :--------- | ------------------------------------------- | ------------- | -------------- |
 |   1    | 01-04-2024 | Eerste Paasdag/geen bijeenkomst             | -             | -              |
@@ -18,3 +21,4 @@ Zorg dat je deze bijeenkomst aanwezig kan zijn. Het is de afsluiting van je proj
 :::
 
 [^1]: Je krijgt bericht van Q-highschool over de locatie van de fysieke les.
+-->

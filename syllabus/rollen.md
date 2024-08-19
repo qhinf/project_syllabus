@@ -16,6 +16,7 @@ Als product owner zorg je dat alle neuzen in het team dezelfde kant op staan, na
 
 Jij maakt. Als developer bijt je je vast in jouw taken en zorg je ervoor dat het product gemaakt wordt. Dat kan door code te schrijven, door de fysieke delen van het product te bouwen, door de designs te maken, door het artwork te verzorgen, door de database in te richten en door de beveiliging te testen en te verbeteren. Als zaken niet lopen zoals je wilt of je komt er niet uit, dan schakel je jouw scrum master in voor hulp. Als je keuzes moet maken die invloed hebben op de richting van het product, dan overleg je die met de product owner.
 
+<!--
 :::{admonition} Belangrijk
 :class: dropdown
 Je hebt dit document gelezen! Ga tijdens de eerste fysieke les van de module in blok 2324-4 naar een van de docenten, zeg:
@@ -24,5 +25,4 @@ Je hebt dit document gelezen! Ga tijdens de eerste fysieke les van de module in 
 
 Je beloning is iets lekkers als bewijs dat je dit gelezen hebt. Dit aanbod is alleen geldig op maandag 8 april tussen 14.30 en 14.45u (het eerste kwartier van de les dus).
 :::
-
-
+-->
