@@ -65,7 +65,9 @@ sphinx:
       
       github_classroom_url: "https://classroom.github.com/a/26VKPNkx"
       
-
+      # Voor de beloning voor het lezen van de rolbeschrijvingen
+      datum_grote_start: "maandag 10 september"
+      rollen_gelezen_bewijs: "'Ik ben geen helikopter' **en** trek een gekke bek naar de docent."
 
 # html, repository en launch_buttons instellingen worden globaal voor alle
 # syllabi afgehandeld.
