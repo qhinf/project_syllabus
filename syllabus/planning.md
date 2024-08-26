@@ -1,24 +1,21 @@
 # Planning
 
-De eerste bijeenkomst is op 26 augustus van 14:30 tot 16:00 via Teams. De planning van de overige bijeenkomsten volgt nog, maar houd er in ieder geval rekening mee dat ze allen van 14:30 tot 17:30 duren.
+*Planning onder voorbehoud. Nog niet alle data zijn definitief.*
 
-<!--
-| Weeknr | Datum      | Activiteit                                  | Fysiek/online | Tijdstip       |
-| :----: | :--------- | ------------------------------------------- | ------------- | -------------- |
-|   1    | 01-04-2024 | Eerste Paasdag/geen bijeenkomst             | -             | -              |
-|   2    | 08-04-2024 | Grote start. Hier *moet* je bij zijn.       | Fysiek[^1]    | 14.30 - 17.30u |
-|   3    | 15-04-2024 | Weekly standup 1                            | Online        | 14.30 - 17.30u |
-|   4    | 22-04-2024 | Weekly standup 2 + reflectie op samenwerken | Fysiek        | 14.30 - 17.30u |
-|   5    | 13-05-2024 | Weekly standup 3                            | Online        | 14.30 - 17.30u |
-|   6    | 27-05-2024 | Sprint review                               | Fysiek        | 14.30 - 17.30u |
-|   7    | 03-06-2024 | Weekly standup 5                            | Online        | 14.30 - 17.30u |
-|   8    | 10-06-2024 | Eindoplevering                              | Fysiek (!)    | 14.30 - 16.00u |
+| Weeknr | Datum                        | Activiteit                               | Fysiek/online | Tijdstip      |
+| :----: | :--------------------------- | ---------------------------------------- | ------------- | ------------- |
+|   1    | 26-08-2024                   | Kleine start                             | Online        | 14:30 - 16:00 |
+| ~~2~~  | ~~02-09-2024~~               | -                                        | -             | -             |
+|   3    | 09-09-2024                   | Grote start. Hier *moet* je bij zijn.    | Fysiek[^1]    | 14:30 - 17:30 |
+|   4    | 16-09-2024                   | Weekly standup 1                         | Fysiek        | 14:30 - 17:30 |
+|   5    | 23-09-2024                   | Weekly standup 2                         | Online        | 14:30 - 17:30 |
+|   6    | 30-09-2024                   | Sprint review + reflectie op samenwerken | Fysiek        | 14:30 - 17:30 |
+|   7    | 07-10-2024                   | Weekly standup 4                         | Online        | 14:30 - 17:30 |
+|   8    | 14-10-2024                   | Weekly standup 5                         | Online        | 14:30 - 17:30 |
+|        | 28-10-2024 **of** 04-11-2024 | Eindoplevering                           | Fysiek (!)    | 14:30 - ?     |
 
 :::{Warning}
-Week 8 is een bijzondere week. Deze valt mogelijk in je toetsweek.
-
-Zorg dat je deze bijeenkomst aanwezig kan zijn. Het is de afsluiting van je project!
+De eindoplevering valt mogelijk in of rond je toetsweek. Zorg dat je bij deze bijeenkomst aanwezig kan zijn. Het is de afsluiting van je project!
 :::
 
 [^1]: Je krijgt bericht van Q-highschool over de locatie van de fysieke les.
--->
