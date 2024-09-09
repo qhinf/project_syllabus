@@ -58,12 +58,12 @@ sphinx:
       docent_email: "a.rump apenstaartje quadraam punt nl"
 
       # De url naar de assignment tijdens de workshop Git
-      github_classroom_workshop_url: "https://classroom.github.com/a/0QjIIkmO"
+      github_classroom_workshop_url: "https://classroom.github.com/a/26VKPNkx"
 
       # De url naar de _echte_ assignment
       # Twee verschillende assignments zijn dus in totaal nodig ;)
       
-      github_classroom_url: "https://classroom.github.com/a/26VKPNkx"
+      github_classroom_url: "https://classroom.github.com/a/r3CN_QPR"
       
       # Voor de beloning voor het lezen van de rolbeschrijvingen
       datum_grote_start: "maandag 10 september"
