@@ -12,7 +12,7 @@
 |   6    | 30-09-2024     | Sprint review + reflectie op samenwerken | Fysiek        | 14:30 - 17:30 |
 |   7    | 07-10-2024     | Weekly standup 4                         | Online        | 14:30 - 17:30 |
 |   8    | 14-10-2024     | Weekly standup 5                         | Online        | 14:30 - 17:30 |
-|        | 28-10-2024     | Eindoplevering                           | Fysiek (!)    | 14:30 - 17:30 |
+|        | 28-10-2024     | Eindoplevering                           | Fysiek (!)    | 14:30 - 16:00 |
 
 :::{Warning}
 De eindoplevering valt mogelijk in of rond je toetsweek. Zorg dat je bij deze bijeenkomst aanwezig kan zijn. Het is de afsluiting van je project!
