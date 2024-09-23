@@ -1,7 +1,5 @@
 # Planning
 
-*Planning onder voorbehoud. Nog niet alle data zijn definitief.*
-
 | Weeknr | Datum          | Activiteit                               | Fysiek/online | Tijdstip      |
 | :----: | :------------- | ---------------------------------------- | ------------- | ------------- |
 |   1    | 26-08-2024     | Kleine start                             | Online        | 14:30 - 16:00 |
