@@ -347,6 +347,29 @@ Jullie hebben in het project nagedacht over algoritmiek: de complexiteit van ver
 
 Jullie hebben kunstmatige intelligentie toegepast in het project. We beoordelen de complexiteit van de oplossing die jullie gekozen hebben (een zelfgetrainde AI getuigt van meer kennis dan gebruik van een API) en natuurlijk ook of de AI op een goede en nuttige manier is verwerkt in het product.
 
+:::{list-table}
+:header-rows: 1
+:stub-columns: 1
+:width: 100%
+
+* -
+  - Goed (10)
+  - Ruim voldoende (7)
+  - Matig (5)
+  - Onvoldoende (3)
+* - Complexiteit van AI
+  - De AI in het product is een zelf getraind model.
+  - Voor de AI in het product zijn meerdere bestaande modellen of APIs gecombineerd.
+  - De AI in het product is gebaseerd op een enkel bestaand model of API.
+  - De "AI" is voorgeprogrammeerd en maakt geen gebruik van machine learning of deep learning.
+* - Nut van AI
+  - De toepassing van AI heeft een duidelijk toegevoegde waarde in het product, die zonder niet gerealiseerd zou kunnen worden.
+  - 
+  - 
+  - AI heeft in het product geen meerwaarde.
+
+:::
+
 ### Netwerken
 
 Jullie product heeft te maken met netwerken: communicatie tussen computers, over het internet of juist alleen binnen een lokaal netwerk. Dit komt bijvoorbeeld voor als je meerdere [Arduino's](#physical-computing) met elkaar wilt laten samenwerken. Natuurlijk wil je dat de communicatie op het netwerk zo snel mogelijk verloopt (zowel in latency als in bandbreedte), maar je moet ook rekening houden met schalingseffecten als er veel apparaten op het netwerk zitten. We beoordelen de keuzes die jullie hierin maken en de argumenten die jullie voor deze keuzes geven, en natuurlijk het daadwerkelijk functioneren van het netwerk.
