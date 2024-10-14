@@ -339,6 +339,36 @@ Jullie project heeft een database om gegevens in te bewaren. We beoordelen de kw
 
 Jullie hebben aandacht besteed aan de beveiliging van jullie product. Er is een uitgebreid verslag met de hacktests die jullie hebben uitgevoerd en de maatregelen die genomen zijn om beveiligingslekken te voorkomen. We beoordelen de breedte en diepte van de tests en de maatregelen. Als wij nog een weg naar binnen vinden, kost dat natuurlijk punten.
 
+:::{list-table}
+:header-rows: 1
+:stub-columns: 1
+:width: 100%
+
+* - 
+  - Goed (10)
+  - Ruim voldoende (7)
+  - Matig (5)
+  - Onvoldoende (3)
+* - Beveiligingstests
+  - Er zijn over het gehele project uitgebreide tests uitgevoerd en beschreven. Zowel in het algemeen veelvoorkomende problemen als problemen die met de specifieke technologie te maken hebben zijn daarbij onderzocht.
+  - Voor veelvoorkomende problemen zijn over de hele applicatie tests uitgevoerd en beschreven, dus die komen in het project hoogstwaarschijnlijk niet voor.
+  - Voor veelvoorkomende problemen zijn tests uitgevoerd, maar niet alle delen van het project komen daarbij aan bod, waardoor er mogelijk beveiligingslekken gemist zijn.
+  - Er zijn enkele tests uitgevoerd en beschreven, maar die geven weinig vertrouwen in de beveiliging van het project als geheel.
+* - Maatregelen
+  - Tegen veelvoorkomende beveiligingsproblemen en andere problemen geïdentificeerd tijdens de tests zijn maatregelen genomen die ook in het verslag zijn beschreven.
+  - Tegen veelvoorkomende beveiligingsproblemen (bijv. die vergelijkbaar met de problemen in de CTF van de module Security) zijn maatregelen genomen die ook in het verslag zijn beschreven.
+  - Er zijn enkele maatregelen genomen om de beveiliging in een paar opzichten te verbeteren (en die zijn ook beschreven).
+  - Er zijn geen maatregelen genomen om de beveiliging te verbeteren (en die zijn ook beschreven).
+* - Open kwetsbaarheden
+  - Er zijn geen duidelijke[^duidelijke-kwetsbaarheden] kwetsbaarheden in het project die niet in het verslag zijn geïdentificeerd.
+  - Er zijn enkele kwetsbaarheden in het project, maar die zijn allemaal gevonden en beschreven in het verslag, inclusief een schets van een mogelijke oplossing.
+  - Er zijn enkele obscure of lastig uit te buiten beveiligingsproblemen. Duidelijkere kwetsbaarheden zijn wel gevonden en beschreven in het verslag.
+  - Er zitten enkele grote gaten in de beveiliging van het project, die niet in het verslag genoemd worden.
+
+:::
+
+[^duidelijke-kwetsbaarheden]: Kwetsbaarheden zijn duidelijk als ze door je docent worden opgemerkt 😉
+
 ### Algoritmiek
 
 Jullie hebben in het project nagedacht over algoritmiek: de complexiteit van verschillende algoritmes, de berekenbaarheid van problemen en logische formules. We beoordelen de diepgang waarmee jullie deze onderwerpen hebben verwerkt en de manier waarop jullie het in het project hebben geïntegreerd.
@@ -346,6 +376,29 @@ Jullie hebben in het project nagedacht over algoritmiek: de complexiteit van ver
 ### AI
 
 Jullie hebben kunstmatige intelligentie toegepast in het project. We beoordelen de complexiteit van de oplossing die jullie gekozen hebben (een zelfgetrainde AI getuigt van meer kennis dan gebruik van een API) en natuurlijk ook of de AI op een goede en nuttige manier is verwerkt in het product.
+
+:::{list-table}
+:header-rows: 1
+:stub-columns: 1
+:width: 100%
+
+* -
+  - Goed (10)
+  - Ruim voldoende (7)
+  - Matig (5)
+  - Onvoldoende (3)
+* - Complexiteit van AI
+  - De AI in het product is een zelf getraind model.
+  - Voor de AI in het product zijn meerdere bestaande modellen of APIs gecombineerd.
+  - De AI in het product is gebaseerd op een enkel bestaand model of API.
+  - De "AI" is voorgeprogrammeerd en maakt geen gebruik van machine learning of deep learning.
+* - Nut van AI
+  - De toepassing van AI heeft een duidelijk toegevoegde waarde in het product, die zonder niet gerealiseerd zou kunnen worden.
+  - 
+  - 
+  - AI heeft in het product geen meerwaarde.
+
+:::
 
 ### Netwerken
 
