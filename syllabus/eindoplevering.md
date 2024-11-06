@@ -35,7 +35,7 @@ De scrum master levert het product in. Daar hoort bij:
     - Als dat niet kan, dan duidelijke uitleg over hoe het programma uitgevoerd dient te worden
   - Voor fysieke producten: duidelijke foto's van het product
 - De bronbestanden, dus code, artwork etc.
-  - In principe is dit jullie GitHub repo zijn
+  - In principe is dit jullie GitHub repo
 
 Maak een map met de structuur:
 
