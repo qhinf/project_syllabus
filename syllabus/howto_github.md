@@ -1,5 +1,11 @@
 # Werken met GitHub
 
+:::{note}
+
+Gebruik bij de **workshop** deze link voor GitHub Classroom: {{ github_classroom_workshop_url }}
+
+:::
+
 Als je via [GitHub Classroom](startopdracht.md#bijlage-een-github-classroom-team-aanmaken) een team hebt aangemaakt of je bij een team hebt aangesloten, kom je uiteindelijk op een pagina zoals deze:
 
 ![Homepagina van een GitHub repository.](assets/howto_github/image-20230920172834814.png)
