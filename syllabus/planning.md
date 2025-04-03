@@ -11,7 +11,7 @@
 |   5    | 08-05-2025 | Weekly standup 3                            | Online        | 14:30 - 17:00 |
 |   6    | 15-05-2025 | Sprint review                               | Fysiek        | 14:30 - 17:00 |
 |   7    | 22-05-2025 | Weekly standup 5                            | Online        | 14:30 - 17:00 |
-|   8    | 29-05-2025 | Eindoplevering                              | Fysiek (!)    | 14:30 - 16:00 |
+|   8    | 05-06-2025 | Eindoplevering                              | Fysiek (!)    | 14:30 - 16:00 |
 
 :::{Warning}
 De eindoplevering valt mogelijk in of rond je toetsweek. Zorg dat je bij deze bijeenkomst aanwezig kan zijn. Het is de afsluiting van je project!
