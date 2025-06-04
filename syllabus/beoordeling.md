@@ -414,4 +414,51 @@ Jullie product heeft te maken met digitale schakelingen of machinetaal. We beoor
 
 ### Maatschappelijke invloed
 
-Jullie reflecteren op de maatschappelijke invloed die jullie product heeft. Je identificeert de raakvlakken van jullie product met actuele discussies en beschrijft hoe het product daarmee omgaat. Welke keuzes hebben jullie gemaakt zodat het product overeenkomt met jullie waardes? Welke mogelijke problemen zien jullie nog met jullie product? We beoordelen de diepgang van jullie reflectie en de relevantie van de gekozen thema's. <!-- Denk aan UT project/thesis reflectie. Wat was daar de beoordeling? -->
+<!--Jullie reflecteren op de maatschappelijke invloed die jullie product heeft. Je identificeert de raakvlakken van jullie product met actuele discussies en beschrijft hoe het product daarmee omgaat. Welke keuzes hebben jullie gemaakt zodat het product overeenkomt met jullie waardes? Welke mogelijke problemen zien jullie nog met jullie product? We beoordelen de diepgang van jullie reflectie en de relevantie van de gekozen thema's. <!-- Denk aan UT project/thesis reflectie. Wat was daar de beoordeling? -->
+
+Wanneer je dit domein kiest, dan maak je een document waarin je drie vragen over je product beantwoord:
+1. Welke twee belangrijkste voordelen levert ons product voor mensen of maatschappij?
+2. Negatief: Noem één mogelijk risico of nadeel en hoe we dat kunnen beperken.
+3. Bron: Verwijs kort naar min. 1 betrouwbare bron (artikel, video, boek)
+ 
+**Idee voor een stappenplan**
+1. Kies focus: privacy, milieu, inclusiviteit, … – wat past het best bij jullie product?
+2. Lees/kijk één betrouwbare bron (bijv. Bits of Freedom, NOS-op3, Kennisnet).
+3. Noteer twee duidelijke voordelen voor gebruikers/maatschappij.
+4. Bedenk één risico + simpele maatregel om dat te verkleinen.
+5. Zet alles in 400–600 woorden óf maak een A4-poster met dezelfde inhoud.
+6. Voeg onderaan de bron toe met korte betrouwbaarheid-uitleg.
+
+
+:::{list-table}
+:header-rows: 1
+:stub-columns: 1
+:width: 100%
+
+* -
+  - Goed (10)
+  - Ruim voldoende (7)
+  - Matig (5)
+  - Onvoldoende (3)
+* - Positieve impact – koppeling met product
+  - Twee heldere, concrete voordelen, **direct gelinkt aan specifieke product-features of user-stories**; uitleg onderbouwd met overtuigende voorbeelden of (mini)-data.
+  - Twee voordelen herkenbaar gekoppeld aan product­onderdelen; uitleg grotendeels overtuigend, maar minder diepgaand.
+  - Minimaal één voordeel benoemd; koppeling met product vooral globaal of summier uitgewerkt.
+  - Voordelen ontbreken, zijn vaag of tonen geen duidelijke relatie met het eigen product.
+* - Risico & oplossing – koppeling met product
+  - Realistisch risico, **nauw verbonden met een product­eigenschap**; voorgestelde maatregel is haalbaar én geïntegreerd in het ontwerp (trade-off besproken).
+  - Risico gekoppeld aan productelement; oplossing plausibel maar niet volledig uitgewerkt of geïntegreerd.
+  - Risico benoemd, maar productkoppeling oppervlakkig; oplossing blijft algemeen of theoretisch.
+  - Geen risico of oplossing genoemd, óf geen duidelijke link met het product.
+* - Brongebruik & toepasbaarheid
+  - Meer dan één betrouwbare bron correct geciteerd en **expliciet gebruikt ter onderbouwing** van voordeel of risico; inzicht uit de bron zichtbaar toegepast.
+  - Bron aanwezig en geciteerd; wordt deels ingezet om het betoog te ondersteunen, maar integratie is beperkt.
+  - Bron vermeld maar vooral als “vinkje”; inhoud nauwelijks verwerkt of citatie onvolledig.
+  - Geen bron óf bron aantoonbaar onbetrouwbaar/onvindbaar.
+:::
+
+**Richtlijn voor je document**
+- *Omvang*: je gebruikt ongeveer 600 woorden of één A3 of A4 poster/infographic
+- *Duidelijkheid*: structureer je document met kopjes; vermijd lange blokken tekst
+- *Product-link zichtbaar maken*: voeg één kleine screenshot, wireframe of icoon toe en verwijs ernaar in je tekst.
+- *Bronvermelding*: titel + link; 1–2 zinnen waarom betrouwbaar.
