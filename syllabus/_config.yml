@@ -53,20 +53,20 @@ sphinx:
     # zaken die vaker terugkomen en bijvoorbeeld aangepast moeten worden voor
     # een volgende editie.
     myst_substitutions:
-      datum_eindoplevering: "donderdag 20 maart"
-      docent: "Pieter van Engelen"
-      docent_email: "P punt vanEngelen apenstaartje quadraam punt nl"
+      datum_eindoplevering: "maandag 27 oktober"
+      docent: "Arthur Rump"
+      docent_email: "a punt rump apenstaartje quadraam punt nl"
 
       # De url naar de assignment tijdens de workshop Git
-      github_classroom_workshop_url: "https://classroom.github.com/a/6k_116qz"
+      github_classroom_workshop_url: "https://classroom.github.com/a/NYi7plpd"
 
       # De url naar de _echte_ assignment
       # Twee verschillende assignments zijn dus in totaal nodig ;)
       
-      github_classroom_url: "https://classroom.github.com/a/1zAFGuZ9"
+      github_classroom_url: "https://classroom.github.com/a/8FVDwlqQ"
       
       # Voor de beloning voor het lezen van de rolbeschrijvingen
-      datum_grote_start: "donderdag 3 april"
+      datum_grote_start: "maandag 8 september"
       rollen_gelezen_bewijs: "'Naar de maan!' **en** wijs naar je schoenen."
 
 # html, repository en launch_buttons instellingen worden globaal voor alle
