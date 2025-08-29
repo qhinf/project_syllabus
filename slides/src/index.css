@@ -1,0 +1,46 @@
+:root {
+    --font-emoji: "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+
+    --r-main-font: system-ui, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, Helvetica, Arial, "Helvetica Neue", sans-serif, var(--font-emoji);
+
+    --r-heading-font: Avenir, Montserrat, Corbel, 'URW Gothic', source-sans-pro, sans-serif, var(--font-emoji);
+    --r-heading-font-weight: 600;
+    --r-heading-text-transform: none;
+}
+
+.reveal a {
+    text-decoration: underline;
+}
+
+.reveal table.noborder td {
+    border-bottom: none;
+}
+
+.reveal table.planning {
+    font-size: .5em;
+}
+
+.reveal table.standup_planning {
+    width: 100%;
+    table-layout: fixed;
+
+    td:first-child {
+        width: 26%;
+    }
+
+    td:not(:first-child) {
+        text-align: center;
+    }
+
+    td:not(:first-child) {
+        border-left: 1px solid;
+    }
+
+    td:first-child {
+        text-align: right;
+    }
+
+    tfoot td {
+        border-top: 4px solid;
+    }
+}
