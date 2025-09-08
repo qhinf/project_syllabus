@@ -48,11 +48,19 @@ Bron: <https://agilescrumgroup.nl/wat-is-een-user-story/>
 
 ### User stories
 
-![](assets/02_grote-start/shituserstory.png) <!-- .element: style="max-width: 100%; max-height: 100% -->
+**Als** leerling bij de Q-highschool\
+**wil ik** in de appsite zien welke modules ik nog moet volgen,\
+**zodat** ik mijn examen haal.
 
-Bron: <https://twitter.com/ShitUserStory/status/1630596868257267713>
+---
 
-<!-- .element: style="font-size: 0.3em; position: absolute; left: 0; bottom: 0;" -->
+<!-- .slide: data-auto-animate -->
+
+### User stories
+
+**Als** *gebruiker van het systeem*\
+**wil ik** *iets doen met het systeem*,\
+**zodat** *ik een bepaald doel bereik*.
 
 ---
 
@@ -149,7 +157,7 @@ Door één persoon met wat voorkennis binnen enkele uren uit te voeren <!-- .ele
 
 In groepen van 3-4 (niet de uiteindelijke projectgroep)
 
-[*Aan de slag met Trello* <br/> informatica.q-highschool.nl/project](https://informatica.q-highschool.nl/project/2425-3/workshop_trello.html)
+[*Aan de slag met Trello* <br/> informatica.q-highschool.nl/project](../workshop_trello.html)
 
 Notes:
 ca. 10 minuten, daarna bespreken welke taken ze bedacht hebben (en of die goed zijn)
@@ -164,7 +172,7 @@ ca. 10 minuten, daarna bespreken welke taken ze bedacht hebben (en of die goed z
 
 Werk in tweetallen
 
-[*Werken met GitHub* <br/> informatica.q-highschool.nl/project](https://informatica.q-highschool.nl/project/2425-3/howto_github.html)
+[*Werken met GitHub* <br/> informatica.q-highschool.nl/project](../howto_github.html)
 
 ***
 
@@ -174,7 +182,7 @@ Werk in tweetallen
 
 ### Eindoplevering
 
-op woensdag 19 maart 14:30 - 16:00
+op {{ datum_eindoplevering }} 14:30 - 16:00
 
 Save the date!
 
@@ -213,19 +221,19 @@ Dan kunnen wij een beetje meekijken wat er zoal gebeurt, en kun je makkelijk vra
 
 ## Aan de slag
 
-[*Startopdracht* <br/> informatica.q-highschool.nl/project](https://informatica.q-highschool.nl/project/2425-3/startopdracht.html) <!-- .element: class="fragment" -->
+[*Startopdracht* <br/> informatica.q-highschool.nl/project](../startopdracht.html) <!-- .element: class="fragment" -->
 
 ***
 
 ## Beoordeling
 
-[*Beoordeling* <br/> informatica.q-highschool.nl/project](https://informatica.q-highschool.nl/project/2425-3/beoordeling.html) <!-- .element: class="fragment" -->
+[*Beoordeling* <br/> informatica.q-highschool.nl/project](../beoordeling.html) <!-- .element: class="fragment" -->
 
 ---
 
 ### Rank yourself!
 
-<https://forms.office.com/e/bZD7f799bR>
+<https://forms.office.com/e/b5ZhVA2iTW>
 
 ![](assets/02_grote-start/rankyourself_qr.png)
 
