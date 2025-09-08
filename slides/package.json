@@ -16,6 +16,7 @@
         "@types/reveal.js": "^5.0.3",
         "esbuild": "^0.20.2",
         "esbuild-plugin-copy": "^2.1.1",
+        "js-yaml": "^4.1.0",
         "rimraf": "^5.0.10",
         "typescript": "^5.5.4"
     }
