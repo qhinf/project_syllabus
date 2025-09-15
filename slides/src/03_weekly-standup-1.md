@@ -18,23 +18,11 @@ Project Informatica / Q-highschool / Bijeenkomst 3
 
 <!-- .element: style="font-size: 1.3em" -->
 
-Planning:
-
-Vandaag tot 16:30
-
-Volgende week (fysiek) tot 17:15
-
----
-
-## Huishoudelijke mededelingen
-
-<!-- .element: style="font-size: 1.3em" -->
-
 Als je niet bij een bijeenkomst kunt zijn, dan ...
 
-1. Meld je je af bij de docent <!-- .element: class="fragment" -->
-2. Meld je je af bij je team <!-- .element: class="fragment" -->
-3. Zorg je dat jouw taken gedaan worden <!-- .element: class="fragment" -->
+1. Meld je je af bij de docent
+2. Meld je je af bij je team
+3. Zorg je dat jouw taken gedaan worden
 
 Notes:
 
@@ -152,13 +140,16 @@ Uiteraard zet je dan je camera aan en heb je werkend geluid. Gebruik evt je tele
 
 <table class="standup_planning">
   <thead>
-    <tr><td></td><td>Arthur</td><td>Hugo</td></tr>
+    <tr><td></td><td>Arthur</td><td>Niek</td></tr>
   </thead>
   <tbody>
-    <tr><td>15:00 - 15:30</td><td>Team Zonder Naam</td><td>Helldivers 0.5</td></tr>
-    <tr><td>15:30 - 16:00</td><td>Game 3</td><td>GreenFlow</td></tr>
-    <tr><td>16:00 - 16:30</td><td>Sudokings</td><td>Nostalgic Minecraft</td></tr>
+    <tr><td>15:00 - 15:30</td><td>Text-to-Slide</td><td>Kebabzakje</td></tr>
+    <tr><td>15:30 - 16:00</td><td>South Park</td><td>Shadowforge</td></tr>
+    <tr><td>16:00 - 16:30</td><td>Team Domotica</td><td>Pig &frac12;e</td></tr>
   </tbody>
+  <tfoot>
+    <tr><td>16:50</td><td colspan="2">Afsluiting</td></tr>
+  </tfoot>
 </table>
 
 ***
@@ -166,6 +157,10 @@ Uiteraard zet je dan je camera aan en heb je werkend geluid. Gebruik evt je tele
 ## Beoordelingscriteria
 
 Kies er drie voor je projectproduct
+
+---
+
+<!-- .slide: data-background-iframe="https://directpoll.com/r?XDbzPBd3ixYqg83Fh85GB1HvCM0EFgYaNc1MWIkPi9wM5" data-background-interactive="true" -->
 
 ---
 
