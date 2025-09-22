@@ -358,6 +358,8 @@ Je gaat een game maken? Dan is het goed om van tevoren over een aantal dingen na
 
 :::
 
+De weging van de verschillende onderdelen is niet per se gelijk: in sommige games is de stijl en sfeer misschien belangrijker dan de verhaallijn of andersom. De weging van de criteria passen we daarop aan.
+
 ### Databases
 
 Jullie project heeft een database om gegevens in te bewaren. We beoordelen de kwaliteit van het datamodel en de SQL queries die jullie geschreven hebben. De criteria worden gemeten met de maat van de module Databases & SQL.
