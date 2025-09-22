@@ -303,6 +303,61 @@ UX gaat over de invloed van het ontwerp op cognitieve, gedragsmatige en affectie
 
 :::
 
+### Gamedesign
+
+Je gaat een game maken? Dan is het goed om van tevoren over een aantal dingen na te denken: je maakt daarvoor een gameconceptdocument, als uitbreiding op de productvisie. Daarin staat:
+
+- Uitbreiding op de productvisie:
+  - In welk genre valt jullie game?
+  - Wat maakt jullie game leuk?
+  - Wat is de unieke invalshoek van jullie game?
+- Het gameconcept:
+  - Spelregels en *mechanics*:
+    - Gameloop: hoe gaan spelers door het spel?
+    - *Primary mechanics*: wat zijn de belangrijkste acties die spelers uitvoeren?
+    - *Secondary systems*: wat kunnen spelers nog meer doen? Denk aan upgrades of items verzamelen.
+    - Progressie: hoe komen spelers verder in het spel?
+  - Verhaallijn en *world building*:
+    - Hoe ziet de wereld van het spel eruit?
+    - Wie zijn de hoofdkarakters?
+    - Wat gebeurt er met die karakters?
+  - Stijl en sfeer:
+    - Hoe ziet het spel er visueel uit?
+    - Laat met een *moodboard* de sfeer zien
+
+:::{list-table}
+:header-rows: 1
+:stub-columns: 1
+:width: 100%
+
+* -
+  - Goed (10)
+  - Ruim voldoende (7)
+  - Matig (5)
+  - Onvoldoende (3)
+* - Visie
+  - Het genre is duidelijk beschreven. Wat het spel leuk maakt en de unieke invalshoek zijn overtuigend en duidelijk beschreven.
+  - Het genre is duidelijk beschreven. Wat het spel leuk maakt en de unieke invalshoek zijn beschreven, maar niet diep onderbouwd.
+  - Een enkel onderdeel blijft oppervlakkig of vaag.
+  - Onderdelen ontbreken of meerdere onderdelen blijven oppervlakkig.
+* - Spelregels en *mechanics*
+  - De spelregels dekken de veelvoorkomende situaties en zijn goed doordacht. Voorbeelden van de flow/gameplay zijn aanwezig. Alle *mechanics* zijn helder, volledig en consistent beschreven.
+  - 
+  - 
+  - 
+* - Verhaallijn en *world building*
+  - Er is een doordachte wereld en passende verhaallijn voor het spel, die helder wordt beschreven. De karakters passen in de wereld.
+  - 
+  - 
+  - 
+* - Stijl en sfeer
+  - Er is een sterke, samenhangende stijl met duidelijke keuzes om een passende sfeer neer te zetten. Er is een moodboard om die sfeer duidelijk te maken.
+  - 
+  - 
+  - 
+
+:::
+
 ### Databases
 
 Jullie project heeft een database om gegevens in te bewaren. We beoordelen de kwaliteit van het datamodel en de SQL queries die jullie geschreven hebben. De criteria worden gemeten met de maat van de module Databases & SQL.
