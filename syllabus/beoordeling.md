@@ -342,19 +342,19 @@ Je gaat een game maken? Dan is het goed om van tevoren over een aantal dingen na
   - Onderdelen ontbreken of meerdere onderdelen blijven oppervlakkig.
 * - Spelregels en *mechanics*
   - De spelregels dekken de veelvoorkomende situaties en zijn goed doordacht. Voorbeelden van de flow/gameplay zijn aanwezig. Alle *mechanics* zijn helder, volledig en consistent beschreven.
-  - 
-  - 
-  - 
+  - De spelregels en *mechanics* zijn goed beschreven, met minimale onduidelijkheden. Er zijn beperkte voorbeelden van de flow/gameplay.
+  - De spelregels zijn beschreven, maar bevatten meerdere onduidelijkheden. De belangrijkste *mechanics* zijn genoemd, maar onvolledig of inconsistent.
+  - Er zitten grote tegenstrijdigheden in de spelregels en/of *mechanics*.
 * - Verhaallijn en *world building*
   - Er is een doordachte wereld en passende verhaallijn voor het spel, die helder wordt beschreven. De karakters passen in de wereld.
-  - 
-  - 
-  - 
+  - Er zijn een helder beschreven wereld, verhaal en karakters, maar zonder duidelijke link met de werking van het spel.
+  - De wereld, het verhaal en de karakters zijn slechts oppervlakkig of inconsistent uitgewerkt.
+  - De wereld, het verhaal of de karakters zijn nauwelijks uitgewerkt of staan haaks op het spelconcept.
 * - Stijl en sfeer
   - Er is een sterke, samenhangende stijl met duidelijke keuzes om een passende sfeer neer te zetten. Er is een moodboard om die sfeer duidelijk te maken.
-  - 
-  - 
-  - 
+  - Er is een beschrijving van de sfeer en een moodboard om een idee te geven van de stijl van het spel, maar dit is niet gedetailleerd uitgewerkt.
+  - De beschrijving van de stijl en de sfeer is onsamenhangend of oppervlakkig.
+  - De stijl en sfeer is nauwelijks uitgewerkt of staat haaks op het spelconcept.
 
 :::
 
