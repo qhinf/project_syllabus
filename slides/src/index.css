@@ -44,3 +44,22 @@
         border-top: 4px solid;
     }
 }
+
+.reveal section.full-height {
+    top: 0;
+    height: 100%;
+    display: flex !important;
+    flex-flow: column nowrap;
+    justify-content: center;
+    gap: var(--r-block-margin);
+}
+
+.reveal section.full-height > * {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.columns {
+    display: grid; 
+    grid-template-columns: 1fr 1fr;
+}
