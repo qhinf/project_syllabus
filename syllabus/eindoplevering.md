@@ -28,11 +28,13 @@ Omdat er geen fysiek eindmoment is, neem je de eindpresentatie op. Hoe je dit do
 1. Een ingesproken Powerpoint
 2. Een camera opname van iemand van jullie team, die de presentatie in een klaslokaal geeft.
 
-Zorg dat je ook zeker een demo van je product in je presentatie hebt zitten. Het is misschien wel een goed idee om dit met bijvoorbeeld Capcut in je presentatie te monteren.
+Zorg dat je ook zeker een demo van je product in je presentatie hebt zitten.
+
+Het is misschien wel een goed idee om dit met bijvoorbeeld Capcut in je presentatie te monteren.
 
 In alle gevallen moet je stem goed verstaanbaar en het beeld goed leesbaar zijn.
 
-Deze film plaats je uiterlijk donderdag 15 januari om 14.00u in het kanaal van je Team. 
+Deze film plaats je uiterlijk **donderdag 15 januari om 14.00u** in het kanaal van je Team. 
 
 Het maken en inleveren van de film is de verantwoordelijkheid van de Scrum Master. De Product Owner zorgt voor de inhoud en presenteert (of laat het presenteren door iemand anders van je team)
 De Developers helpen waar nodig.
