@@ -25,7 +25,7 @@ Het is dus de verantwoordelijkheid van de Product owner dat deze presentatie geg
 **Dit is voor de oplevering van 2526 Blok 2 alleen (15 januari 2026)**
 
 Omdat er geen fysiek eindmoment is, neem je de eindpresentatie op. Hoe je dit doet, dat is aan jullie. Dit mag zijn:
-1. Een ingesproken Powerpoint
+1. Een ingesproken Powerpoint (als screencast-filmpje)
 2. Een camera opname van iemand van jullie team, die de presentatie in een klaslokaal geeft.
 
 Zorg dat je ook zeker een demo van je product in je presentatie hebt zitten.

@@ -53,7 +53,7 @@ sphinx:
     # zaken die vaker terugkomen en bijvoorbeeld aangepast moeten worden voor
     # een volgende editie.
     myst_substitutions:
-      datum_eindoplevering: "woensdag 14 januari"
+      datum_eindoplevering: "donderdag 15 januari 14:00u"
       docent: "Pieter van Engelen"
       docent_email: "p punt vanengelen apenstaartje quadraam punt nl"
 
