@@ -21,6 +21,23 @@ In de presentatie zitten:
 
 Het is dus de verantwoordelijkheid van de Product owner dat deze presentatie gegeven wordt, maar dat betekent niet per se dat de Product owner zelf presenteert. Als die er bijvoorbeeld niet bij kan zijn, moet een teamgenoot het over nemen. Maar je kunt ook sowieso besluiten om met de hele groep te presenteren. Of een iemand die presenteert en een ander die de demo verzorgt. Als er maar een presentatie is!
 
+:::{admonition} Let op!!!
+**Dit is voor de oplevering van 2526 Blok 2 alleen (15 januari 2026)**
+
+Omdat er geen fysiek eindmoment is, neem je de eindpresentatie op. Hoe je dit doet, dat is aan jullie. Dit mag zijn:
+1. Een ingesproken Powerpoint
+2. Een camera opname van iemand van jullie team, die de presentatie in een klaslokaal geeft.
+
+Zorg dat je ook zeker een demo van je product in je presentatie hebt zitten. Het is misschien wel een goed idee om dit met bijvoorbeeld Capcut in je presentatie te monteren.
+
+In alle gevallen moet je stem goed verstaanbaar en het beeld goed leesbaar zijn.
+
+Deze film plaats je uiterlijk donderdag 15 januari om 14.00u in het kanaal van je Team. 
+
+Het maken en inleveren van de film is de verantwoordelijkheid van de Scrum Master. De Product Owner zorgt voor de inhoud en presenteert (of laat het presenteren door iemand anders van je team)
+De Developers helpen waar nodig.
+:::
+
 ## Product inleveren
 
 De scrum master levert het product in. Daar hoort bij:
