@@ -78,15 +78,15 @@ Via observaties, eigen reflectie en commentaar van je team <!-- .element: style=
 
 | Weeknr | Datum      | Activiteit                                  | Fysiek/online | Tijdstip       |
 | :----: | :--------- | ------------------------------------------- | ------------- | -------------- |
-|   1    | 01-09-2025 | Kleine start                                | Online        | 14:30 - 16:00 |
-|   2    | 08-09-2025 | Grote start. Hier *moet* je bij zijn.       | Fysiek[^1]    | 14:30 - 17:00 |
-|   3    | 15-09-2025 | Weekly standup 1                            | Online        | 14:30 - 17:00 |
-|   4    | 22-09-2025 | Weekly standup 2 + reflectie op samenwerken | Fysiek        | 14:30 - 17:00 |
-|   5    | 29-09-2025 | Weekly standup 3                            | Online        | 14:30 - 17:00 |
-|   6    | 06-10-2025 | Sprint review                               | Fysiek        | 14:30 - 17:00 |
-|        |            | *Herfstvakantie*                            |               |               |
-|   7    | 20-10-2025 | Weekly standup 5                            | Online        | 14:30 - 17:00 |
-|   8    | 27-10-2025 | Eindoplevering                              | Fysiek (!)    | 14:30 - 16:00 |
+|   1    | 12-11-2025 | Kleine start                                | Online        | 14:30 - 16:00 |
+|   2    | 19-11-2025 | Grote start. Hier *moet* je bij zijn.       | Fysiek[^1]    | 14:30 - 17:00 |
+|   3    | 26-11-2025 | Weekly standup 1                            | Online        | 14:30 - 17:00 |
+|   4    | 03-12-2025 | Weekly standup 2 + reflectie op samenwerken | Fysiek        | 14:30 - 17:00 |
+|   5    | 10-12-2025 | Weekly standup 3                            | Online        | 14:30 - 17:00 |
+|   6    | 17-12-2025 | Sprint review                               | Fysiek        | 14:30 - 17:00 |
+|        |            | *Kerstvakantie*                             |               |               |
+|   7    | 07-01-2026 | Weekly standup 5                            | Online        | 14:30 - 17:00 |
+|   8    | 14-01-2026 | Eindoplevering                              | Fysiek (!)    | 14:30 - 16:00 |
 <!-- .element: class="planning" -->
 
 ---
@@ -124,7 +124,7 @@ Als je taken hebt die in die bijeenkomst gedaan moeten worden, dan zorg je dat i
 2. Brainstorm: wat is voor deze groep een interessant project?
    - Geen idee is te gek!
 3. Stuur de beste ideeën in via\
-   <https://forms.office.com/e/S536RwaCY2>
+   <https://forms.office.com/e/J7vM2TiUCG>
 
 <!-- .element: style="font-size: .8em" -->
 
