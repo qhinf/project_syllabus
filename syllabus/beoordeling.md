@@ -128,7 +128,7 @@ Daarnaast hebben we voor de verschillende rollen ook een specifieke rubric:
   - Ik duik in de technische aspecten van het project en pak uitdagingen aan om mijn technische kennis te verdiepen. Als ik niet weet hoe ik iets kan oplossen, ga ik op zoek naar nieuwe technieken die ik kan toepassen om dat wel voor elkaar te krijgen.
   - Ik kies mijn taken op basis van de kennis die ik al heb, maar ik ga een uitdaging niet uit de weg als die zich voordoet. Zo verdiep ik mijn technische kennis op de terreinen waar ik al ervaring heb.
   - Ik beperk mij tot de technische aspecten waar ik al eerder mee gewerkt heb. Als zich uitdagingen voordoen die ik niet kan oplossen zonder extra kennis, zorg ik dat anderen dat op zich nemen.
-  - Ik laat mij soms overspoelen door technische uitdagingen waarvoor ik niet de benodigde kennis heb en die ook niet wil of kan verkrijgen.
+  - Ik laat mij soms overspoelen door technische uitdagingen waarvoor ik niet de benodigde kennis heb en die ook niet wil of kan verkrijgen. Ik laat mijn werk kritiekloos genereren door een AI.
   
 :::
 
