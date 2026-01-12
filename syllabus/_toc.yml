@@ -12,7 +12,7 @@ parts:
     - file: planning
     - file: rollen
     - file: beoordeling
-  - caption: Tools # Handleidingen voor GitHub, Trello, Teams e.d.
+  - caption: Voorbereiding
     chapters:
     - file: workshop_trello
     - file: howto_github
