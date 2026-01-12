@@ -60,7 +60,7 @@ sphinx:
       # GitHub Classroom links, twee verschillende assignments zijn dus in totaal nodig ;)
       # De url naar de assignment tijdens de workshop Git
       # Individuele assignment met https://github.com/q-highschool/classroom-workshop-template als template
-      github_classroom_workshop_url: "<volgt later>"
+      github_classroom_workshop_url: "https://classroom.github.com/a/eMU2TfOr"
       # De url naar de _echte_ assignment
       # Team assignment met https://github.com/q-highschool/project-classroom-template als template
       github_classroom_url: "https://classroom.github.com/a/90MRPlKL"
