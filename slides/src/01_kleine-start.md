@@ -76,17 +76,7 @@ Via observaties, eigen reflectie en commentaar van je team <!-- .element: style=
 
 ### Planning
 
-| Weeknr | Datum      | Activiteit                                  | Fysiek/online | Tijdstip       |
-| :----: | :--------- | ------------------------------------------- | ------------- | -------------- |
-|   1    | 12-11-2025 | Kleine start                                | Online        | 14:30 - 16:00 |
-|   2    | 19-11-2025 | Grote start. Hier *moet* je bij zijn.       | Fysiek[^1]    | 14:30 - 17:00 |
-|   3    | 26-11-2025 | Weekly standup 1                            | Online        | 14:30 - 17:00 |
-|   4    | 03-12-2025 | Weekly standup 2 + reflectie op samenwerken | Fysiek        | 14:30 - 17:00 |
-|   5    | 10-12-2025 | Weekly standup 3                            | Online        | 14:30 - 17:00 |
-|   6    | 17-12-2025 | Sprint review                               | Fysiek        | 14:30 - 17:00 |
-|        |            | *Kerstvakantie*                             |               |               |
-|   7    | 07-01-2026 | Weekly standup 5                            | Online        | 14:30 - 17:00 |
-|   8    | 14-01-2026 | Eindoplevering                              | Fysiek (!)    | 14:30 - 16:00 |
+{{ planning_tabel }}
 <!-- .element: class="planning" -->
 
 ---

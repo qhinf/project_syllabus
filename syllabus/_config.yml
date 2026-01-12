@@ -53,21 +53,30 @@ sphinx:
     # zaken die vaker terugkomen en bijvoorbeeld aangepast moeten worden voor
     # een volgende editie.
     myst_substitutions:
-      datum_eindoplevering: "donderdag 15 januari 14:00u"
-      docent: "Pieter van Engelen"
-      docent_email: "p punt vanengelen apenstaartje quadraam punt nl"
+      datum_eindoplevering: "dinsdag 17 maart"
+      docent: "Arthur Rump"
+      docent_email: "a punt rump apenstaartje quadraam punt nl"
 
+      # GitHub Classroom links, twee verschillende assignments zijn dus in totaal nodig ;)
       # De url naar de assignment tijdens de workshop Git
-      github_classroom_workshop_url: "https://classroom.github.com/a/NYi7plpd"
-
+      # Individuele assignment met https://github.com/q-highschool/classroom-workshop-template als template
+      github_classroom_workshop_url: "<volgt later>"
       # De url naar de _echte_ assignment
-      # Twee verschillende assignments zijn dus in totaal nodig ;)
-      
-      github_classroom_url: "https://classroom.github.com/a/8FVDwlqQ"
-      
-      # Voor de beloning voor het lezen van de rolbeschrijvingen
-      datum_grote_start: "woensdag 19 november"
-      rollen_gelezen_bewijs: "'Naar de maan!' **en** wijs naar je schoenen."
+      # Team assignment met https://github.com/q-highschool/project-classroom-template als template
+      github_classroom_url: "https://classroom.github.com/a/90MRPlKL"
+
+      planning_tabel: |
+        | Weeknr | Datum      | Activiteit                                  | Fysiek/online | Tijdstip      |
+        | :----: | :--------- | ------------------------------------------- | ------------- | ------------- |
+        |   1    | 20-01-2026 | Kleine start                                | Online        | 14:30 - 16:00 |
+        |   2    | 27-01-2026 | Grote start. Hier *moet* je bij zijn.       | Fysiek        | 14:30 - 17:00 |
+        |   3    | 03-02-2026 | Weekly standup 1                            | Online        | 14:30 - 17:00 |
+        |   4    | 10-02-2026 | Weekly standup 2 + reflectie op samenwerken | Fysiek        | 14:30 - 17:00 |
+        |        |            | *Krokusvakantie*                            |               |               |
+        |   5    | 24-02-2026 | Weekly standup 3                            | Online        | 14:30 - 17:00 |
+        |   6    | 03-03-2026 | Sprint review                               | Fysiek        | 14:30 - 17:00 |
+        |   7    | 10-03-2026 | Weekly standup 5                            | Online        | 14:30 - 17:00 |
+        |   8    | 17-03-2026 | Eindoplevering                              | Fysiek (!)    | 14:30 - 16:00 |
 
 # html, repository en launch_buttons instellingen worden globaal voor alle
 # syllabi afgehandeld.
