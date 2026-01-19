@@ -1,12 +1,19 @@
 # Werken met GitHub
 
+In dit project ga je gebruik maken van Git en GitHub om samen met je teamgenoten aan code te werken. Git is een tool die speciaal gemaakt is om samen aan code te werken en werkt daarom ietsje anders dan je misschien gewend bent van andere online samenwerktools zoals Office 365 of Google Docs. Bekijk deze video (en doe zelf mee!) om te leren hoe je met Git en GitHub kunt werken:
+
+<iframe title="Project Informatica: GitHub Workshop" width="560" height="315" src="https://video.edu.nl/videos/embed/sXDQf68G5sLEYYvG9qEwDA" style="border: 0px;" allow="fullscreen" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>
+
+*Werkt de video niet (of niet goed)? Ook te zien op [YouTube](https://youtu.be/CglGI2wTt2k).* 
+
+
 :::{note}
 
 Gebruik bij de **workshop** deze link voor GitHub Classroom: {{ github_classroom_workshop_url }}
 
 :::
 
-Als je via [GitHub Classroom](startopdracht.md#bijlage-een-github-classroom-team-aanmaken) een team hebt aangemaakt of je bij een team hebt aangesloten, kom je uiteindelijk op een pagina zoals deze:
+Als je via GitHub Classroom een team hebt aangemaakt of je bij een team hebt aangesloten, kom je uiteindelijk op een pagina zoals deze:
 
 ![Homepagina van een GitHub repository.](assets/howto_github/image-20230920172834814.png)
 
@@ -49,6 +56,8 @@ GitHub Desktop vertelt je nu dat er geen lokale wijzigingen meer zijn (dus geen 
 Als je wilt kijken of één van je teamgenoten wijzigingen naar GitHub heeft gestuurd, dan klik je op de *Fetch origin* knop. Daarmee worden wijzigingen die op GitHub staan opgehaald, maar nog niet toegepast op de bestanden die op jouw computer staan.
 
 ![Fetch origin knop](assets/howto_github/image-20231003115443377.png)
+
+Voor deze workshop maakt de Q-highschool Bot 🤖 ook wijzigingen in jouw repository, zodat er in ieder geval even na jouw eerste commit ook wijzigingen beschikbaar zijn op GitHub om met een `git pull` op te halen.
 
 Als er wijzigingen beschikbaar zijn, dan verandert de knop daarna in een *Pull origin* knop. Je ziet aan de rechterkant een 1 met een pijltje naar beneden staan. Dat betekent dat er één commit op GitHub beschikbaar is met wijzigingen die nog niet op jouw computer staan. Als je op deze knop klikt, dan worden die wijzigingen opgehaald en toegepast op de bestanden op jouw computer.
 

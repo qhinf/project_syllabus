@@ -1,20 +1,18 @@
 # Aan de slag met Trello
 
-Werk in groepen van 3-4 personen (dit is niet je uiteindelijke projectgroep).
+Om alle taken die jullie moeten uitvoeren tijdens het project een beetje overzichtelijk te maken, gebruiken we Trello: een tool waarin je taken kunt bijhouden en op een bord kunt aangeven of deze taken nog gedaan moeten worden, of iemand ermee bezig is of dat de taak gedaan is. Dat kan je helpen om tijdens de weekly standup een geheugensteuntje te hebben van wat je hebt gedaan en wat er nog moet gebeuren. Ook tussendoor kan het fijn zijn om te zien waar iedereen mee bezig is. Bekijk de video en ga aan de slag met de casus hieronder.
+
+<iframe title="Project Informatica: Trello Workshop" width="560" height="315" src="https://video.edu.nl/videos/embed/sq5nX6UnaUk6YAXdCA3G7P" style="border: 0px;" allow="fullscreen" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>
+
+*Werkt de video niet (of niet goed)? Ook te zien op [YouTube](https://youtu.be/gyIUPrLlHbg).* 
 
 ## Voorbereiding
-
-Eén persoon uit de groep volgt de volgende stappen om een bord aan te maken:
 
 1. Maak een nieuw bord aan in Trello via de knop *Aanmaken*. Geef het bord een naam en zet het in je eigen standaard workspace:
 
    ![image-20230412103108557](assets/workshop_trello/image-20230412103108557.png)
 
-2. Deel het bord via de knop *Delen* rechtsboven met jouw groepsgenoten.
-
-3. Maak kolommen aan voor Todo, Doing en Done.
-
-De andere personen uit de groep openen het bord nadat ze zijn uitgenodigd.
+3. Maak kolommen aan voor Todo, Doing en Done, als die niet automatisch toegevoegd zijn.
 
 ## Taken bedenken
 
