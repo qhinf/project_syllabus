@@ -15,7 +15,7 @@ parts:
   - caption: Voorbereiding
     chapters:
     - file: workshop_trello
-    - file: howto_github
+    - file: workshop_github
   - caption: Opdrachten
     chapters:
     - file: startopdracht

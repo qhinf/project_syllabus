@@ -1,4 +1,4 @@
-# Aan de slag met Trello
+# Workshop: Trello
 
 Om alle taken die jullie moeten uitvoeren tijdens het project een beetje overzichtelijk te maken, gebruiken we Trello: een tool waarin je taken kunt bijhouden en op een bord kunt aangeven of deze taken nog gedaan moeten worden, of iemand ermee bezig is of dat de taak gedaan is. Dat kan je helpen om tijdens de weekly standup een geheugensteuntje te hebben van wat je hebt gedaan en wat er nog moet gebeuren. Ook tussendoor kan het fijn zijn om te zien waar iedereen mee bezig is. Bekijk de video en ga aan de slag met de casus hieronder.
 

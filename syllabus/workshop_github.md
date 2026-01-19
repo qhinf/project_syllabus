@@ -1,4 +1,4 @@
-# Werken met GitHub
+# Workshop: Git en GitHub
 
 In dit project ga je gebruik maken van Git en GitHub om samen met je teamgenoten aan code te werken. Git is een tool die speciaal gemaakt is om samen aan code te werken en werkt daarom ietsje anders dan je misschien gewend bent van andere online samenwerktools zoals Office 365 of Google Docs. Bekijk deze video (en doe zelf mee!) om te leren hoe je met Git en GitHub kunt werken:
 
