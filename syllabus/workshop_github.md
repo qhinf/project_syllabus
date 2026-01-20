@@ -6,6 +6,12 @@ In dit project ga je gebruik maken van Git en GitHub om samen met je teamgenoten
 
 *Werkt de video niet (of niet goed)? Ook te zien op [YouTube](https://youtu.be/CglGI2wTt2k).* 
 
+## Voorbereiding
+
+1. Maak een account aan via [github.com/signup](https://github.com/signup). Tip: gebruik je eigen e-mailadres (en niet je schoolmail), zodat je ook later nog toegang hebt tot dit account, al was het maar om het te kunnen verwijderen.
+2. Installeer [GitHub Desktop](https://desktop.github.com/download/) op je computer en log in in de applicatie.
+
+## GitHub Classroom
 
 :::{note}
 
@@ -13,7 +19,7 @@ Gebruik bij de **workshop** deze link voor GitHub Classroom: {{ github_classroom
 
 :::
 
-Als je via GitHub Classroom een team hebt aangemaakt of je bij een team hebt aangesloten, kom je uiteindelijk op een pagina zoals deze:
+Als je in GitHub Classroom de uitnodiging voor een assignment accepteert, dan kom je uiteindelijk op een pagina zoals deze:
 
 ![Homepagina van een GitHub repository.](assets/howto_github/image-20230920172834814.png)
 

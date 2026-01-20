@@ -8,7 +8,8 @@ Om alle taken die jullie moeten uitvoeren tijdens het project een beetje overzic
 
 ## Voorbereiding
 
-1. Maak een nieuw bord aan in Trello via de knop *Aanmaken*. Geef het bord een naam en zet het in je eigen standaard workspace:
+1. Maak een account aan bij [Trello](https://trello.com), of log in via je Microsoft-schoolaccount.
+2. Maak een nieuw bord aan in Trello via de knop *Aanmaken*. Geef het bord een naam en zet het in je eigen standaard workspace:
 
    ![image-20230412103108557](assets/workshop_trello/image-20230412103108557.png)
 
