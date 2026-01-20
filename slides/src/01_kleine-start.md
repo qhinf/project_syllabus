@@ -83,7 +83,7 @@ Via observaties, eigen reflectie en commentaar van je team <!-- .element: style=
 
 ### Syllabus
 
-[informatica.q-highschool.nl/project](https://informatica.q-highschool.nl/project/)
+[informatica.q-highschool.nl/project](../)
 
 ---
 
@@ -114,7 +114,7 @@ Als je taken hebt die in die bijeenkomst gedaan moeten worden, dan zorg je dat i
 2. Brainstorm: wat is voor deze groep een interessant project?
    - Geen idee is te gek!
 3. Stuur de beste ideeën in via\
-   <https://forms.office.com/e/J7vM2TiUCG>
+   <{{ form_ideeen }}>
 
 <!-- .element: style="font-size: .8em" -->
 
@@ -124,6 +124,10 @@ Zet je camera en geluid aan.
 Dit is niet per se de groep waarmee je gaat samenwerken, het gaat erom dat we ideeën verzamelen! Ook als er maar twee mensen in een groep zitten die een idee leuk vinden, stuur het in!
 
 Dit wordt een longlist, straks maken we daar een shortlist van met de beste ideeën.
+
+***
+
+## Longlist &rarr; Shortlist
 
 ***
 
@@ -175,7 +179,7 @@ Maakt het product <!-- .element: class="fragment" -->
 
 ### Rollen in het team
 
-Lees de beschrijvingen in de [syllabus](https://informatica.q-highschool.nl/project/).
+Lees de beschrijvingen in de [syllabus](../rollen.html).
 
 Notes:
 Bedenk welke rol je wilt hebben. Waar liggen jouw kwaliteiten? Wat zou je juist willen leren?
@@ -189,39 +193,21 @@ Welke rol heeft op dit moment jouw voorkeur?\
 
 ***
 
-## Longlist &rarr; Shortlist
-
-***
-
 ## Tools
 
 Trello en GitHub <!-- .element: class="fragment" -->
 
 ---
 
-<!-- .slide: data-auto-animate data-auto-animate-id="trello" -->
-
 ### Trello
 
 Een service om taken bij te houden\
 op een "Kanban bord"
 
----
-
-<!-- .slide: data-auto-animate data-auto-animate-id="trello" -->
-
-### Trello
-
-Maak een account op [trello.com](https://trello.com)
-
-Je kunt een Atlassian account aanmaken,\
-of inloggen met je schoolaccount via "Ga verder met Microsoft"
-
-<!-- .element: style="font-size: .7em;" -->
+Notes:
+Demo met een "echt" bord.
 
 ---
-
-<!-- .slide: data-auto-animate data-auto-animate-id="github" -->
 
 ### GitHub
 
@@ -238,14 +224,18 @@ Waarom Git? Iedereen een eigen kopie, zodat je programma kunt testen terwijl and
 
 ---
 
-<!-- .slide: data-auto-animate data-auto-animate-id="github" -->
+### Workshops
 
-### GitHub
+[Workshop: Trello](../workshop_trello.html) en\
+[Workshop: Git en GitHub](../workshop_github.html)\
+in de syllabus
 
-Maak een account op [github.com/signup](https://github.com/signup)
+&nbsp;
 
-Download en installeer\
-GitHub Desktop via [desktop.github.com](https://desktop.github.com)
+<small>Doe die voor volgende week!</small>
+
+Notes:
+Voor project 1 verplicht, voor project 2 vrijwillige opfrisser.
 
 ***
 
@@ -258,11 +248,11 @@ GitHub Desktop via [desktop.github.com](https://desktop.github.com)
 <small style="margin-top: -0.5em;">voor volgende week</small>
 
 1. Bedenk welke rol jij het liefste wilt hebben\
-   <small>zie de beschrijvingen in de [syllabus](https://informatica.q-highschool.nl/project/)</small>
-2. Geef jouw voorkeuren door voor project en rol\
+   <small>zie de beschrijvingen in de [syllabus](../rollen.html)</small>
+2. Geef jouw voorkeur door voor project en rol\
    <small>(zie Teams)</small>
-3. Maak accounts bij Trello en GitHub,\
-   installeer GitHub Desktop
+3. Doe de workshops over [Trello](../workshop_trello.html) en [GitHub](../workshop_github.html)\
+   <small>Verwachte tijdsinvestering: &plusmn; 1 uur</small>
 
 ---
 

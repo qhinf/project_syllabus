@@ -65,6 +65,9 @@ sphinx:
       # Team assignment met https://github.com/q-highschool/project-classroom-template als template
       github_classroom_url: "https://classroom.github.com/a/90MRPlKL"
 
+      # Formulieren
+      form_ideeen: "https://forms.office.com/e/t4tcLLH2eB"
+
       planning_tabel: |
         | Weeknr | Datum      | Activiteit                                  | Fysiek/online | Tijdstip      |
         | :----: | :--------- | ------------------------------------------- | ------------- | ------------- |
