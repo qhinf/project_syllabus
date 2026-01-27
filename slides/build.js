@@ -3,6 +3,7 @@ const { copy } = require("esbuild-plugin-copy")
 const fs = require("fs")
 const path = require("path")
 const yaml = require("js-yaml")
+const encodeQR = require("qr").default
 
 const entryPoints = [
     "src/*.html",
@@ -28,25 +29,25 @@ function getSubstitutions() {
     )
 }
 
-// esbuild plugin for .md and .html substitution
-function mdHtmlSubstitutionPlugin() {
+// esbuild plugin for QR code generation and substitution
+function mdHtmlTransformPlugin() {
     return {
-        name: "md-html-substitution",
+        name: "md-html-transform",
         setup(build) {
             const substitutions = getSubstitutions()
             build.onLoad({ filter: /\.(md|html)$/ }, async (args) => {
                 let content = await fs.promises.readFile(args.path, "utf8")
                 const warnings = []
-                // Find all {{ key }} occurrences and substitute
-                const regex = /{{\s*(\w+)\s*}}/g
+                
+                // First pass: Substitution - replace {{ key }} with values
+                const substRegex = /\{\{\s*(\w+)\s*\}\}/g
                 let match
                 let newContent = ""
                 let lastIndex = 0
-                while ((match = regex.exec(content)) !== null) {
+                while ((match = substRegex.exec(content)) !== null) {
                     const [fullMatch, key] = match
                     const start = match.index
-                    const end = regex.lastIndex
-                    // Add content before match
+                    const end = substRegex.lastIndex
                     newContent += content.slice(lastIndex, start)
                     if (substitutions[key] === undefined) {
                         // Find line/column for warning
@@ -73,6 +74,26 @@ function mdHtmlSubstitutionPlugin() {
                     lastIndex = end
                 }
                 newContent += content.slice(lastIndex)
+                content = newContent
+                
+                // Second pass: QR code generation - replace {# text #} with QR codes
+                let qrRegex = /\{#\s*(.*?)\s*#\}/g
+                newContent = ""
+                lastIndex = 0
+                while ((match = qrRegex.exec(content)) !== null) {
+                    const [fullMatch, qrText] = match
+                    const start = match.index
+                    const end = qrRegex.lastIndex
+                    newContent += content.slice(lastIndex, start)
+                    // Generate QR code as GIF bytes
+                    const gifBytes = encodeQR(qrText, "gif", { scale: 4 })
+                    const base64Data = Buffer.from(gifBytes).toString("base64")
+                    const imgTag = `<img src="data:image/gif;base64,${base64Data}" alt="QR code for ${qrText}" />`
+                    newContent += imgTag
+                    lastIndex = end
+                }
+                newContent += content.slice(lastIndex)
+                
                 return {
                     contents: newContent,
                     loader: "copy",
@@ -98,7 +119,7 @@ function config(isProduction) {
             ".md": "copy"
         },
         plugins: [
-            mdHtmlSubstitutionPlugin(),
+            mdHtmlTransformPlugin(),
             copy({
                 assets: {
                     from: [ "./src/assets/**/*" ],

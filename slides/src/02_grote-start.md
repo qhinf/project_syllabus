@@ -6,15 +6,22 @@ Project Informatica / Q-highschool / Bijeenkomst 2
 
 ## Vandaag
 
-- Aan de slag met methodiek
-  - User stories en productvisie
-  - Rollen en samenwerking
-  - Trello en GitHub
-- Kennismaking
+- Meer over methodiek
+- Meer over samenwerking
 - Organisatorische afspraken
 - Bekendmaking project teams
 - Aan de slag
 - Beoordeling
+
+---
+
+Wie heeft nog geen voorkeuren doorgegeven?
+
+<{{ form_voorkeuren }}>
+
+{# {{ form_voorkeuren }} #} 
+
+<!-- .element: class="r-stretch" -->
 
 ***
 
@@ -149,23 +156,42 @@ Dan kunnen wij een beetje meekijken wat er zoal gebeurt, en kun je makkelijk vra
 
 ***
 
-## Aan de slag
+<div class="columns">
+<div>
 
-[*Startopdracht* <br/> informatica.q-highschool.nl/project](../startopdracht.html) <!-- .element: class="fragment" -->
+## En start!
+
+&nbsp;
+
+[*Startopdracht*<br/>in de syllabus](../startopdracht.html)
+
+</div>
+<div>
+
+1. Kennis maken
+2. Teamnaam
+3. Werkafspraken
+4. Trello en GitHub
+5. Brainstorm
+6. Aan de slag
+7. Afsluiten
+
+</div>
+</div>
 
 ***
 
 ## Beoordeling
 
-[*Beoordeling* <br/> informatica.q-highschool.nl/project](../beoordeling.html) <!-- .element: class="fragment" -->
+[*Beoordeling* in de syllabus](../beoordeling.html) <!-- .element: class="fragment" -->
 
 ---
 
 ### Rank yourself!
 
-<https://forms.office.com/e/b5ZhVA2iTW>
+<{{ form_rankyourself }}>
 
-![](assets/02_grote-start/rankyourself_qr.png)
+{# {{ form_rankyourself }} #}
 
 <!-- .element: class="r-stretch" -->
 
