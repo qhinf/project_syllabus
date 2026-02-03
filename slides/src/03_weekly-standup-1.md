@@ -143,9 +143,9 @@ Uiteraard zet je dan je camera aan en heb je werkend geluid. Gebruik evt je tele
     <tr><td></td><td>Arthur</td><td>Niek</td></tr>
   </thead>
   <tbody>
-    <tr><td>15:00 - 15:30</td><td>Text-to-Slide</td><td>Kebabzakje</td></tr>
-    <tr><td>15:30 - 16:00</td><td>South Park</td><td>Shadowforge</td></tr>
-    <tr><td>16:00 - 16:30</td><td>Team Domotica</td><td>Pig &frac12;e</td></tr>
+    <tr><td>15:00 - 15:30</td><td colspan="2">Nog zonder naam</td></tr>
+    <tr><td>15:30 - 16:00</td><td>Apollo 2009</td><td>RecipeHub</td></tr>
+    <tr><td>16:00 - 16:30</td><td>alto.dev</td><td>AI-team</td></tr>
   </tbody>
   <tfoot>
     <tr><td>16:50</td><td colspan="2">Afsluiting</td></tr>
@@ -160,7 +160,7 @@ Kies er drie voor je projectproduct
 
 ---
 
-<!-- .slide: data-background-iframe="https://directpoll.com/r?XDbzPBd3ixYqg83Fh85GB1HvCM0EFgYaNc1MWIkPi9wM5" data-background-interactive="true" -->
+<!-- .slide: data-background-iframe="https://directpoll.com/r?XDbzPBd3ixYqg8zN1dN9OtvtmpOJeG0IBuhw5dpdBb8fPjO" data-background-interactive="true" -->
 
 ---
 
