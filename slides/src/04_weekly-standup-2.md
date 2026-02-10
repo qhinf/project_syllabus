@@ -15,7 +15,7 @@ Project Informatica / Q-highschool / Bijeenkomst 4
 
 ## "Planning"
 
-Samenwerkingsreflectie met Kristel en Laura, ca. 20 min
+Samenwerkingsreflectie met Laura, ca. 20 min
 
 Weekly standup met Arthur en/of Niek, ca. 30 min
 
@@ -45,9 +45,9 @@ Zet je Trello bord in beeld!
 
 ## Samenwerkingsreflectie
 
-<https://forms.office.com/e/ytwfUeCrCR>
+<{{ form_samenwerkingsreflectie }}>
 
-![](assets/04_weekly-standup-2/samenwerkingsreflectie_qr.png)
+{# {{ form_samenwerkingsreflectie }} #}
 
 <!-- .element: class="r-stretch" -->
 
