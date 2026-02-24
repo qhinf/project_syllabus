@@ -15,17 +15,7 @@ Project Informatica / Q-highschool / Bijeenkomst 5
 
 ## Planning
 
-| Weeknr | Datum      | Activiteit                                  | Fysiek/online | Tijdstip       |
-| :----: | :--------- | ------------------------------------------- | ------------- | -------------- |
-|   1    | 01-09-2025 | Kleine start                                | Online        | 14:30 - 16:00 |
-|   2    | 08-09-2025 | Grote start. Hier *moet* je bij zijn.       | Fysiek[^1]    | 14:30 - 17:00 |
-|   3    | 15-09-2025 | Weekly standup 1                            | Online        | 14:30 - 17:00 |
-|   4    | 22-09-2025 | Weekly standup 2 + reflectie op samenwerken | Fysiek        | 14:30 - 17:00 |
-| **5**  | **29-09-2025** | **Weekly standup 3**                    | **Online**    | **14:30 - 17:00** |
-|   6    | 06-10-2025 | Sprint review                               | Fysiek        | 14:30 - 17:00 |
-|        |            | *Herfstvakantie*                            |               |               |
-|   7    | 20-10-2025 | Weekly standup 5                            | Online        | 14:30 - 17:00 |
-|   8    | 27-10-2025 | Eindoplevering                              | Fysiek (!)    | 14:30 - 16:00 |
+{{ planning_tabel }}
 <!-- .element: class="planning" -->
 
 ---
@@ -69,9 +59,9 @@ Zet je Trello bord in beeld!
     <tr><td></td><td>Arthur</td><td>Niek</td></tr>
   </thead>
   <tbody>
-    <tr><td>14:45 - 15:15</td><td>Pig &frac12;e</td><td>Team Domotica</td></tr>
-    <tr><td>15:15 - 15:45</td><td>Kebabzakje</td><td>Text-to-Slide</td></tr>
-    <tr><td>14:45 - 15:15</td><td>Shadowforge</td><td>South Park</td></tr>
+    <tr><td>14:45 - 15:15</td><td>AI-team</td><td>Web Artists</td></tr>
+    <tr><td>15:15 - 15:45</td><td>RecipeHub</td><td>Apollo 2009</td></tr>
+    <tr><td>15:45 - 16:15</td><td></td><td>alto.dev</td></tr>
   </tbody>
   <tfoot>
     <tr><td>16:50</td><td colspan="2">Afsluiting</td></tr>
@@ -80,7 +70,7 @@ Zet je Trello bord in beeld!
 
 ***
 
-<!-- .slide: data-background-iframe="https://directpoll.com/r?XDbzPBd3ixYqg8khe9mzOvRxORp1yF79wBav5rJyHiVve" data-background-interactive="true" -->
+<!-- .slide: data-background-iframe="https://directpoll.com/r?XDbzPBd3ixYqg8Kl2zjbKgvpX2lhKz21yX0BUtS9fsdCnF" data-background-interactive="true" -->
 
 ---
 
