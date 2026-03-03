@@ -11,24 +11,19 @@ Project Informatica / Q-highschool / Bijeenkomst 6
 <dl>
     <dt>tot 15:00</dt>
     <dd>tijd voor weekly standup (zelfstandig!)</dd>
-    <dt>in A5: vanaf 15:00</dt>
-    <dd>sprint review presentaties</dd>
-    <dt>in A6: vanaf 15:30</dt>
+    <dt>vanaf 15:00</dt>
     <dd>sprint review presentaties</dd>
     <dt>daarna</dt>
     <dd>overleg en aan de slag</dd>
 </dl>
 
+<!--
 ---
 
 <div class="columns">
 <div>
 
 in **A5**
-
-Shadowforge\
-South Park\
-Pig &frac12;e
 
 *sprint review\
 om 15:00*
@@ -38,15 +33,12 @@ om 15:00*
 
 in **A6**
 
-Team Domotica\
-Text-to-Slide\
-Kebabzakje
-
 *sprint review\
 om 15:30*
 
 </div>
 </div>
+-->
 
 ***
 
@@ -78,8 +70,6 @@ Doe de weekly standup *zelfstandig*.\
 Zet je Trello bord in beeld!
 
 ***
-
-Volgende week: vakantie
 
 ## Volgende keer
 
