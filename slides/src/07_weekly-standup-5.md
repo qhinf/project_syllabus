@@ -8,17 +8,7 @@ Project Informatica / Q-highschool / Bijeenkomst 7
 
 ## Planning
 
-| Week | Datum      | Activiteit                                  | Waar?         | Tijdstip      |
-| :--: | :--------- | ------------------------------------------- | ------------- | ------------- |
-|  1   | 22-01-2025 | Kleine start                                | Online        | 14:30 - 16:00 |
-|  2   | 29-01-2025 | Grote start. Hier *moet* je bij zijn.       | Fysiek        | 14:30 - 17:00 |
-|  3   | 05-02-2025 | Weekly standup 1                            | Online        | 14:30 - 17:00 |
-|  4   | 12-02-2025 | Weekly standup 2 + reflectie op samenwerken | Fysiek        | 14:30 - 17:00 |
-|  5   | 19-02-2025 | Weekly standup 3                            | Online        | 14:30 - 17:00 |
-|  6   | 26-02-2025 | Sprint review                               | Fysiek        | 14:30 - 17:15 |
-|      |            | *Krokusvakantie*                            |               |               |
-|  **7**   | **12-03-2025** | **Weekly standup 5**                            | **Online**        | **14:30 - 17:00** |
-|  8   | 19-03-2025 | Eindoplevering                              | Fysiek (!)    | 14:30 - 16:00 |
+{{ planning_tabel }}
 <!-- .element: class="planning" -->
 
 ---
@@ -33,11 +23,11 @@ Project Informatica / Q-highschool / Bijeenkomst 7
 
 <!-- .element: class="fragment" -->
 
-[Opdracht in de syllabus](https://informatica.q-highschool.nl/project/2425-3/eindoplevering.html) 
+[Zie *Eindoplevering* in de syllabus](../eindoplevering.html) 
 
 <!-- .element: class="fragment" -->
 
-*Fysieke bijeenkomst, op het **SGA*** 
+*Fysieke bijeenkomst tot 16:00* 
 
 <!-- .element: class="fragment" -->
 
@@ -64,22 +54,22 @@ Zet je Trello bord in beeld!
 
 <table class="standup_planning">
   <thead>
-    <tr><td></td><td>Arthur</td><td>Hugo</td></tr>
+    <tr><td></td><td>Arthur</td><td>Niek</td></tr>
   </thead>
   <tbody>
-    <tr><td>14:45 - 15:15</td><td>Game 3</td><td>Team Zonder Naam</td></tr>
-    <tr><td>15:15 - 15:45</td><td>Nostalgic Minecraft</td><td>GreenFlow</td></tr>
-    <tr><td>15:45 - 16:15</td><td>Helldivers 0.5</td><td>Sudokings</td></tr>
+    <tr><td>14:45 - 15:15</td><td>alto.dev</td><td>RecipeHub</td></tr>
+    <tr><td>15:15 - 15:45</td><td>Web Artists</td><td>AI-team</td></tr>
+    <tr><td>15:45 - 16:15</td><td colspan="2">Apollo 2009</td></tr>
     <tr><td>16:15 - 16:55</td><td colspan="2">Hulp nodig? Laat het weten!</td></tr>
   </tbody>
   <tfoot>
-    <tr><td>16:55</td><td colspan="2">Afsluiting in Algemeen</td></tr>
+    <tr><td>16:50</td><td colspan="2">Afsluiting in Algemeen</td></tr>
   </tfoot>
 </table>
 
 ***
 
-<!-- .slide: data-background-iframe="https://directpoll.com/r?XDbzPBd3ixYqg82qRP6fzPKxtusoyKwvrQt4NmL2YlW5g8" data-background-interactive="true" -->
+<!-- .slide: data-background-iframe="https://directpoll.com/r?XDbzPBd3ixYqg8Y1HcKcHdMnJpusz2uxkzOjtf7m5WJjS" data-background-interactive="true" -->
 
 Notes:
 - Zijn jullie klaar voor de eindoplevering?
@@ -99,6 +89,6 @@ Notes:
 
 Eindoplevering
 
-Fysieke bijeenkomst, op het **SGA**!
+Fysieke bijeenkomst!
 
 Lever je eindproduct in op [app.q-highschool.nl](https://app.q-higschool.nl)
