@@ -9,9 +9,11 @@ Project Informatica / Q-highschool / Bijeenkomst 8
 - Product owner: zet de presentatie in Teams
 - Scrum master: zorg dat alles is ingeleverd
 - Slotopmerkingen:\
-  [forms.office.com/e/HwF28NTqdS](https://forms.office.com/e/HwF28NTqdS)
+  {{ form_slotopmerkingen }}
 
-<img class="r-stretch" src="assets/08_eindoplevering/slotopmerkingen_qr.png" />
+{# {{ form_slotopmerkingen }} #} 
+
+<!-- .element: class="r-stretch" -->
 
 Notes:
 Slotopmerkingen:
