@@ -465,6 +465,39 @@ Jullie product heeft te maken met netwerken: communicatie tussen computers, over
 
 Jullie product modelleert of simuleert een systeem uit bijvoorbeeld de natuurkunde, scheikunde of economie. We beoordelen dit model op de mate van uitwerking en validatie en de integratie in het project.
 
+:::{list-table}
+:header-rows: 1
+:stub-columns: 1
+:width: 100%
+
+* -
+  - Goed (10)
+  - Ruim voldoende (7)
+  - Matig (5)
+  - Onvoldoende (3)
+* - Modelkeuze en onderbouwing
+  - De keuze voor het te modelleren systeem is helder onderbouwd. Jullie leggen expliciet uit welke aspecten wel en niet zijn meegenomen, welke vereenvoudigingen zijn gemaakt en waarom de gekozen modelaanpak (bijv. agentgebaseerd, differentiaalvergelijking) passend is voor het vraagstuk.
+  - De modelkeuze is beschreven en de belangrijkste vereenvoudigingen zijn benoemd, maar niet altijd volledig uitgelegd.
+  - Het is duidelijk welk systeem gemodelleerd wordt, maar ontwerpkeuzes en vereenvoudigingen zijn nauwelijks verantwoord.
+  - Er is geen heldere verantwoording voor de modelkeuze. Het is onduidelijk welke keuzes zijn gemaakt en waarom.
+* - Implementatie van het simulatiemodel
+  - De simulatie is correct geïmplementeerd: de code is leesbaar, het model gedraagt zich zoals ontworpen en de parameters zijn instelbaar. De werking van setup en simulatieloop zijn beschreven.
+  - De simulatie werkt en komt grotendeels overeen met het ontwerp. De code is redelijk leesbaar en de werking is globaal beschreven.
+  - De simulatie draait maar bevat fouten of wijkt af van het ontwerp. De code is moeilijk te volgen en de beschrijving van de werking is summier.
+  - De simulatie draait niet of implementeert het model niet herkenbaar. Code en beschrijving schieten ernstig tekort.
+* - Validatie
+  - Jullie vergelijken het gedrag van het model expliciet met patronen of gegevens uit de werkelijkheid. Overeenkomsten én verschillen worden benoemd en beoordeeld op relevantie. Beperkingen van het model worden bewust besproken.
+  - Er is een vergelijking met de werkelijkheid gemaakt en de belangrijkste overeenkomsten of afwijkingen zijn benoemd. Beperkingen worden kort besproken.
+  - Er is een poging tot validatie, maar die is oppervlakkig of eenzijdig. Beperkingen van het model worden nauwelijks besproken.
+  - Geen validatie. Het model wordt niet vergeleken met de werkelijkheid en beperkingen worden niet erkend.
+* - Integratie in het product
+  - De simulatie is de kern van het product. Gebruikers kunnen er zinvol mee interacteren (bijv. parameters instellen, uitkomsten bekijken) en de output levert een duidelijke meerwaarde voor het product.
+  - De simulatie speelt een duidelijke rol in het product en is bruikbaar voor de gebruiker, maar de integratie heeft nog ruimte voor verbetering.
+  - De simulatie is aanwezig maar slecht geïntegreerd: de gebruiker kan er weinig mee of het is niet duidelijk hoe de output nuttig is voor het product.
+  - De simulatie staat los van het product of is nauwelijks herkenbaar als onderdeel ervan.
+
+:::
+
 ### Computerarchitectuur
 
 Jullie product heeft te maken met digitale schakelingen of machinetaal. We beoordelen het product op de diepgang
