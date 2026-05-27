@@ -498,6 +498,38 @@ Jullie product modelleert of simuleert een systeem uit bijvoorbeeld de natuurkun
 
 :::
 
+### Algoritmische optimalisatie
+
+Jullie hebben bewust nagedacht over de snelheid van jullie code en stappen ondernomen om die te verbeteren. We beoordelen niet alleen *wat* jullie hebben gedaan, maar vooral *waarom* jullie die keuzes hebben gemaakt en wat jullie daarbij hebben overwogen. Jullie bevindingen (probleemidentificatie, strategie, onderbouwing en reflectie) moeten in een apart document _Optimalisatie_ komen te staan en moet bij de eindoplevering ingeleverd worden.
+
+:::{list-table}
+:header-rows: 1
+:stub-columns: 1
+:width: 100%
+
+* -
+  - Goed (10)
+  - Ruim voldoende (7)
+  - Matig (5)
+  - Onvoldoende (3)
+* - Probleemidentificatie
+  - Jullie hebben concreet gemeten (bijv. met een timer of profiler) welk deel van de code traag is. De bottleneck is specifiek benoemd: niet "het programma is langzaam" maar "bij grote invoer kost dit onderdeel verreweg de meeste tijd".
+  - Jullie hebben gemeten waar de vertraging zit en de bottleneck is benoemd, maar de meting is niet heel precies of volledig.
+  - Jullie hebben een idee van waar het probleem zit, maar dat is meer een gevoel dan een meting. Concreet bewijs ontbreekt.
+  - De bottleneck is niet geïdentificeerd of jullie zijn meteen begonnen met aanpassen zonder eerst te meten.
+* - Optimalisatiestrategie en onderbouwing
+  - Jullie leggen helder uit waarom de gekozen aanpak sneller is. De redenering gaat over *hoe het werk groeit met de invoer*: bijv. "eerst doorzochen we elke keer de hele lijst, nu gebruiken we een woordenboek zodat opzoeken altijd even snel is, ook bij een lijst van duizend items".
+  - De aanpak is uitgelegd en de redenering is begrijpelijk, maar gaat niet in op waarom het bij grotere invoer echt uitmaakt.
+  - Er is een aanpak beschreven maar de onderbouwing blijft oppervlakkig: "het doet minder stappen", zonder uit te leggen waarom dat zo is.
+  - Er is geen duidelijke redenering. De aanpassing is gedaan op gevoel of door iets te kopiëren, zonder te begrijpen waarom het werkt.
+* - Reflectie op trade-offs
+  - Jullie benoemen bewust wat er veranderd is naast de snelheid — bijv. de code is minder leesbaar geworden, of gebruikt meer geheugen — en leggen uit waarom die afweging de moeite waard was (of niet).
+  - Een trade-off is benoemd met een korte toelichting.
+  - Er wordt iets gezegd over trade-offs maar het blijft erg algemeen of het is niet duidelijk of jullie de afweging echt doorhebben.
+  - Geen reflectie op trade-offs. De optimalisatie wordt gepresenteerd alsof er geen nadelen zijn.
+
+:::
+
 ### Computerarchitectuur
 
 Jullie product heeft te maken met digitale schakelingen of machinetaal. We beoordelen het product op de diepgang
