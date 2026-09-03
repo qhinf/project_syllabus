@@ -1,4 +1,4 @@
-# Kleine start
+# Grote start in Week 1
 
 Project Informatica / Q-Vakken / Bijeenkomst 1
 
@@ -6,12 +6,13 @@ Project Informatica / Q-Vakken / Bijeenkomst 1
 
 ## Vandaag
 
-- Introductie
+- Introductie 
+- Methodiek en tools
 - Brainstormen over projectideeën
-  - Longlist
-  - Shortlist
-  - Voorkeuren
-- Introductie methodiek en tools
+- De product visie
+- Overzicht houden
+- Project teams maken
+- Aan de slag
 
 ***
 
@@ -100,37 +101,6 @@ Als je taken hebt die in die bijeenkomst gedaan moeten worden, dan zorg je dat i
 
 ***
 
-## Brainstorm
-
----
-
-### Wat wil je maken? <br/> <span style="font-size: 0.7em">Brainstormsessie - 15 min</span>
-
-1. Leer elkaar kennen:
-   - Wat heb je altijd al willen maken?
-   - Wat zijn jouw hobby's, interesses, behoeften?
-   - Welke modules heb je al gevolgd?
-   - Wat kun je bijdragen aan een project?
-2. Brainstorm: wat is voor deze groep een interessant project?
-   - Geen idee is te gek!
-3. Stuur de beste ideeën in via\
-   <{{ form_ideeen }}>
-
-<!-- .element: style="font-size: .8em" -->
-
-Notes:
-Zet je camera en geluid aan.
-
-Dit is niet per se de groep waarmee je gaat samenwerken, het gaat erom dat we ideeën verzamelen! Ook als er maar twee mensen in een groep zitten die een idee leuk vinden, stuur het in!
-
-Dit wordt een longlist, straks maken we daar een shortlist van met de beste ideeën.
-
-***
-
-## Longlist &rarr; Shortlist
-
-***
-
 ## Methodiek
 
 ---
@@ -179,7 +149,7 @@ Maakt het product <!-- .element: class="fragment" -->
 
 ### Rollen in het team
 
-Lees de beschrijvingen in de [syllabus](../rollen.html).
+Lees na het vormen van je team de beschrijvingen in de [syllabus](../rollen.html).
 
 Notes:
 Bedenk welke rol je wilt hebben. Waar liggen jouw kwaliteiten? Wat zou je juist willen leren?
@@ -209,7 +179,7 @@ Demo met een "echt" bord.
 
 ---
 
-### Git en ForgeJo
+### GitHub
 
 Een service om bestanden te delen met Git
 
@@ -222,44 +192,144 @@ Bron afbeelding: <https://www.edureka.co/blog/how-to-use-github/>
 Notes:
 Waarom Git? Iedereen een eigen kopie, zodat je programma kunt testen terwijl anderen er ook aan werken.
 
+***
+
+## Brainstorm
+
 ---
 
-### Workshops
+### Wat wil je maken? <br/> <span style="font-size: 0.7em">Brainstormsessie - 15 min</span>
 
-[Workshop: Trello](../workshop_trello.html) en\
-[Workshop: Git en GitHub](../workshop_github.html)\
-in de syllabus
+We willen zoveel mogelijk ideeën hebben!
+
+> Fase 1: schrijf je idee op een post-it en plak deze op het bord
+
+Regel: 1 idee per post-it
+
+Kijk ook eens wat er al hangt, laat je inspireren. Je mag ideeën uitbreiden, beperken, een andere richting geven -> zet het op een nieuwe post-it.
+
+<!-- .element: style="font-size: .8em" -->
+
+
+***
+
+## Longlist &rarr; Shortlist
+
+Eens kijken wat we hebben!
+
+> Fase 2: we gaan ranken
+<!-- .element: class="fragment" -->
+
+***
+
+## De product visie
+
+Waar willen jullie met het project naartoe?
+
+- visie (wat wil je bereiken?)
+- doelgroep (voor wie?)
+- behoefte (wat heeft die doelgroep nodig?)
+- product (wat wordt het product?)
+- doelen (wat is de waarde van het product?)
+
+Notes:
+Doel is om alle neuzen dezelfde kant op te krijgen
+
+---
+
+Als team bespreek je de globale richting van het product
+
+## Product owner
+
+De product owner werkt de productvisie en user stories uit
+
+<!-- .slide: data-auto-animate -->
+
+---
+
+### User stories
+
+**Als** zorgverlener,\
+**wil ik** inzicht in de medicatiehistorie van de patiënt,\
+**zodat** ik bij twijfel de nieuw voorgeschreven dosering gemakkelijk van verifiëren.
+
+Bron: <https://agilescrumgroup.nl/wat-is-een-user-story/>
+
+<!-- .element: style="font-size: 0.3em; position: absolute; left: 0; bottom: 0;" -->
+
+---
+
+<!-- .slide: data-auto-animate -->
+
+### User stories
+
+**Als** leerling bij de Q-Vakken\
+**wil ik** in de appsite zien welke modules ik nog moet volgen,\
+**zodat** ik mijn examen haal.
+
+---
+
+<!-- .slide: data-auto-animate -->
+
+### User stories
+
+**Als** *gebruiker van het systeem*\
+**wil ik** *iets doen met het systeem*,\
+**zodat** *ik een bepaald doel bereik*.
+
+***
+
+## Overzicht houden
+
+Door de **scrum master**
+
+Richt een backlog in,\
+leidt de weekly standup, en\
+let erop dat taken verdeeld en op tijd gedaan worden
 
 &nbsp;
 
-<small>Doe die voor volgende week!</small>
-
-Notes:
-Voor project 1 verplicht, voor project 2 vrijwillige opfrisser.
+bij voorkeur met zo'n Trello-bord.
 
 ***
 
-## Shortlist &rarr; Voorkeuren
-
-***
-
-## "Huiswerk"
-
-<small style="margin-top: -0.5em;">voor volgende week</small>
-
-1. Bedenk welke rol jij het liefste wilt hebben\
-   <small>zie de beschrijvingen in de [syllabus](../rollen.html)</small>
-2. Geef jouw voorkeur door voor project en rol\
-   <small>(zie Teams)</small>
-3. Doe de workshops over [Trello](../workshop_trello.html) en [GitHub](../workshop_github.html)\
-   <small>Verwachte tijdsinvestering: &plusmn; 1 uur</small>
+## Genoeg gepraat
 
 ---
 
+## Project teams maken
+
+***
+
+<div class="columns">
+<div>
+
+## Aan de slag!
+
+&nbsp;
+
+[*Startopdracht*<br/>in de syllabus](../startopdracht.html)
+
+</div>
+<div>
+
+1. Kennis maken
+2. Teamnaam
+3. Werkafspraken
+4. Trello en GitHub
+5. Brainstorm
+6. Aan de slag
+7. Afsluiten
+
+</div>
+</div>
+
+***
+
 ## Volgende week
 
-Fysieke les, van 14:30 tot 17:00
+Online les, van 14:30 tot **17:30**
 
-Neem mee:\
-opgeladen laptop met oplader\
-goeie zin
+Zorg voor:\
+- een werkende camera en microfoon
+- goeie zin
