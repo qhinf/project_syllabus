@@ -316,7 +316,7 @@ bij voorkeur met zo'n Trello-bord.
 1. Kennis maken
 2. Teamnaam
 3. Werkafspraken
-4. Trello en GitHub
+4. Trello en Git
 5. Brainstorm
 6. Aan de slag
 7. Afsluiten
@@ -330,6 +330,6 @@ bij voorkeur met zo'n Trello-bord.
 
 Online les, van 14:30 tot **17:30**
 
-Zorg voor:\
+Zorg voor:
 - een werkende camera en microfoon
 - goeie zin
