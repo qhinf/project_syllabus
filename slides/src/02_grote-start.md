@@ -1,6 +1,6 @@
 # Grote start
 
-Project Informatica / Q-highschool / Bijeenkomst 2
+Project Informatica / Q-Vakken / Bijeenkomst 2
 
 ---
 
@@ -55,7 +55,7 @@ Bron: <https://agilescrumgroup.nl/wat-is-een-user-story/>
 
 ### User stories
 
-**Als** leerling bij de Q-highschool\
+**Als** leerling bij de Q-Vakken\
 **wil ik** in de appsite zien welke modules ik nog moet volgen,\
 **zodat** ik mijn examen haal.
 

@@ -1,6 +1,6 @@
 # Kleine start
 
-Project Informatica / Q-highschool / Bijeenkomst 1
+Project Informatica / Q-Vakken / Bijeenkomst 1
 
 ---
 
@@ -83,7 +83,7 @@ Via observaties, eigen reflectie en commentaar van je team <!-- .element: style=
 
 ### Syllabus
 
-[informatica.q-highschool.nl/project](../)
+[informatica.q-vakken.nl/project](../)
 
 ---
 

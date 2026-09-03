@@ -2,7 +2,7 @@
 
 <!-- .element: style="font-size: 2.4em" -->
 
-Project Informatica / Q-highschool / Bijeenkomst 5
+Project Informatica / Q-Vakken / Bijeenkomst 5
 
 ---
 

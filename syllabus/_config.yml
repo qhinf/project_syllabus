@@ -5,7 +5,7 @@ title: Project Informatica
 
 # Auteur is verplicht, maar wordt voor de syllabus site automatisch aangepast op
 # basis van de commitgeschiedenis.
-author: Q-highschool
+author: Q-Vakken
 
 # Standaard worden alleen bestanden die in _toc.yml genoemd worden "gecompileerd"
 only_build_toc_files: true
@@ -53,7 +53,7 @@ sphinx:
     # zaken die vaker terugkomen en bijvoorbeeld aangepast moeten worden voor
     # een volgende editie.
     myst_substitutions:
-      datum_eindoplevering: "woensdag 3 juni"
+      datum_eindoplevering: "donderdag 5 november"
       docent: "Pieter van Engelen/Niek van den Kieboom"
       docent_email: "p punt vanengelen apenstaartje quadraam punt nl"
 
@@ -75,15 +75,15 @@ sphinx:
       planning_tabel: |
         | Weeknr | Datum      | Activiteit                                  | Fysiek/online | Tijdstip      |
         | :----: | :--------- | ------------------------------------------- | ------------- | ------------- |
-        |   1    | 25-03-2026 | Kleine start                                | Online        | 14:30 - 16:00 |
-        |   2    | 01-04-2026 | Grote start. Hier *moet* je bij zijn.       | Fysiek        | 14:30 - 17:00 |
-        |   3    | 08-04-2026 | Weekly standup 1                            | Online        | 14:30 - 17:00 |
-        |   4    | 15-04-2026 | Weekly standup 2 + reflectie op samenwerken | Fysiek        | 14:30 - 17:00 |
-        |        |            | *Meivakantie*.                              |               |               |
-        |   5    | 13-05-2026 | Weekly standup 3                            | Online        | 14:30 - 17:00 |
-        |   6    | 20-05-2026 | Sprint review                               | Fysiek        | 14:30 - 17:00 |
-        |   7    | 27-05-2026 | Weekly standup 5                            | Online        | 14:30 - 17:00 |
-        |   8    | 03-06-2026 | Eindoplevering                              | Fysiek (!)    | 14:30 - 16:00 |
+        |   1    | 10-09-2026 | Grote start. Hier *moet* je bij zijn.       | Fysiek        | 14:30 - 17:00 |
+        |   2    | 17-09-2026 | Weekly standup 1                            | Online        | 14:30 - 17:30 |
+        |   3    | 24-09-2026 | Weekly standup 2                            | Online        | 14:30 - 17:30 |
+        |   4    | 01-10-2026 | Weekly standup 3 + reflectie op samenwerken | Fysiek        | 14:30 - 17:30 |
+        |   5    | 08-10-2026 | Weekly standup 4                            | Online        | 14:30 - 17:30 |
+        |   6    | 15-10-2026 | Sprint review                               | Fysiek        | 14:30 - 17:30 |
+        |        |            | *Herfstvakantie*                            |               |               |
+        |   7    | 29-10-2026 | Weekly standup 5                            | Online        | 14:30 - 17:30 |
+        |   8    | 05-11-2026 | Eindoplevering                              | Fysiek (!)    | 14:30 - 16:00 |
 
 # html, repository en launch_buttons instellingen worden globaal voor alle
 # syllabi afgehandeld.

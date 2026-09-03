@@ -42,4 +42,4 @@ Project
    |- logo.png
 ```
 
-Pak die map in tot een .zip bestand (zie [hier](https://informatica.q-highschool.nl/informatie/meerdere-bestanden-inleveren) voor hulp daarbij) en lever het in op [app.q-highschool.nl](https://app.q-highschool.nl). Het product dient op {{ datum_eindoplevering }} voor de presentaties ingeleverd te zijn.
+Pak die map in tot een .zip bestand (zie [hier](https://informatica.q-vakken.nl/informatie/meerdere-bestanden-inleveren) voor hulp daarbij) en lever het in op [app.q-vakken.nl](https://app.q-vakken.nl). Het product dient op {{ datum_eindoplevering }} voor de presentaties ingeleverd te zijn.

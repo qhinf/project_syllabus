@@ -1,6 +1,6 @@
 # Eindoplevering
 
-Project Informatica / Q-highschool / Bijeenkomst 8
+Project Informatica / Q-Vakken / Bijeenkomst 8
 
 ---
 

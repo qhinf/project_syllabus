@@ -2,7 +2,7 @@
 
 <!-- .element: style="font-size: 2.4em" -->
 
-Project Informatica / Q-highschool / Bijeenkomst 7
+Project Informatica / Q-Vakken / Bijeenkomst 7
 
 ---
 
@@ -91,4 +91,4 @@ Eindoplevering
 
 Fysieke bijeenkomst!
 
-Lever je eindproduct in op [app.q-highschool.nl](https://app.q-higschool.nl)
+Lever je eindproduct in op [app.q-vakken.nl](https://app.q-vakken.nl)
