@@ -202,16 +202,19 @@ Waarom Git? Iedereen een eigen kopie, zodat je programma kunt testen terwijl and
 
 We willen zoveel mogelijk ideeën hebben!
 
-> Fase 1: schrijf je idee op een post-it en plak deze op het bord
+> Fase 1: schrijf je idee op in dit formulier
 
-Regel: 1 idee per post-it
-
-Kijk ook eens wat er al hangt, laat je inspireren. Je mag ideeën uitbreiden, beperken, een andere richting geven -> zet het op een nieuwe post-it.
+Regel: 1 idee per invoer
 
 <!-- .element: style="font-size: .8em" -->
 
+---
 
-***
+<img src="assets/2627-1_bijzondere_start_formulier.jpg"
+     alt="Beschrijving van de afbeelding"
+     style="display: block; max-width: 90%; max-height: 80vh; width: auto; height: auto; margin: auto; object-fit: contain;">
+
+---
 
 ## Longlist &rarr; Shortlist
 
