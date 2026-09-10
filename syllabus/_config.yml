@@ -54,7 +54,7 @@ sphinx:
     # een volgende editie.
     myst_substitutions:
       datum_eindoplevering: "donderdag 5 november"
-      docent: "Pieter van Engelen/Niek van den Kieboom"
+      docent: "Pieter van Engelen/Niek van den Kieboom/Els Dillerop"
       docent_email: "p punt vanengelen apenstaartje quadraam punt nl"
 
       # GitHub Classroom links, twee verschillende assignments zijn dus in totaal nodig ;)
