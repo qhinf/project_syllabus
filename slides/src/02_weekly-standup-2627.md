@@ -152,7 +152,7 @@ Uiteraard zet je dan je camera aan en heb je werkend geluid. Gebruik evt je tele
     <tr><td>17:05 - 17:25</td><td colspan="2">006 Bulldozers</td></tr>
   </tbody>
   <tfoot>
-    <tr><td>16:50</td><td colspan="2">Afsluiting</td></tr>
+    <tr><td>17:25</td><td colspan="2">Afsluiting</td></tr>
   </tfoot>
 </table>
 
