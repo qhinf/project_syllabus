@@ -29,7 +29,7 @@ Product Owner zorgt voor een presentatie <!-- .element: class="fragment" -->
 
 Begin van de les nog tijd voor de weekly standup <!-- .element: class="fragment" -->
 
-*Fysieke bijeenkomst, locatie volgt* <!-- .element: class="fragment" -->
+*Fysieke bijeenkomst: SGA* <!-- .element: class="fragment" -->
 
 [Opdracht in de syllabus](../sprint_review.html) <!-- .element: class="fragment" -->
 

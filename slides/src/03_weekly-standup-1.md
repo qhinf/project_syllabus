@@ -9,7 +9,7 @@ Project Informatica / Q-Vakken/ Bijeenkomst 3
 ## Vandaag
 
 - Huishoudelijke mededelingen
-- Uitleg weekly standup
+<!-- - Uitleg weekly standup -->
 - Weekly standups
 
 ***
@@ -140,12 +140,12 @@ Uiteraard zet je dan je camera aan en heb je werkend geluid. Gebruik evt je tele
 
 <table class="standup_planning">
   <thead>
-    <tr><td></td><td>Arthur</td><td>Niek</td></tr>
+    <tr><td></td><td>Pieter</td><td>Niek</td></tr>
   </thead>
   <tbody>
-    <tr><td>15:00 - 15:30</td><td colspan="2">Nog zonder naam</td></tr>
-    <tr><td>15:30 - 16:00</td><td>Apollo 2009</td><td>RecipeHub</td></tr>
-    <tr><td>16:00 - 16:30</td><td>alto.dev</td><td>AI-team</td></tr>
+    <tr><td>15:00 - 15:30</td><td>Team 6 Bulldozers</td><td>Team 1 Mimi<td></tr>
+    <tr><td>15:30 - 16:00</td><td>Team 2 Olympus</td><td>Team 5 TestTypSnelheid</td></tr>
+    <tr><td>16:00 - 16:30</td><td>Team 3 Cube Engineers</td><td>Team 4 Team Slop</td></tr>
   </tbody>
   <tfoot>
     <tr><td>16:50</td><td colspan="2">Afsluiting</td></tr>
