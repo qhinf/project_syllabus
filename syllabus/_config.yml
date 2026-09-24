@@ -53,7 +53,7 @@ sphinx:
     # zaken die vaker terugkomen en bijvoorbeeld aangepast moeten worden voor
     # een volgende editie.
     myst_substitutions:
-      datum_eindoplevering: "donderdag 5 november"
+      datum_eindoplevering: "donderdag 12 november"
       docent: "Pieter van Engelen/Niek van den Kieboom/Els Dillerop"
       docent_email: "p punt vanengelen apenstaartje quadraam punt nl"
 
@@ -83,7 +83,7 @@ sphinx:
         |   6    | 15-10-2026 | Sprint review                               | Fysiek        | 14:30 - 17:30 |
         |        |            | *Herfstvakantie*                            |               |               |
         |   7    | 29-10-2026 | Weekly standup 5                            | Online        | 14:30 - 17:30 |
-        |   8    | 05-11-2026 | Eindoplevering                              | Fysiek (!)    | 14:30 - 16:00 |
+        |   8    | **12-11-2026** | Eindoplevering                              | Fysiek (!)    | 14:30 - 16:00 |
 
 # html, repository en launch_buttons instellingen worden globaal voor alle
 # syllabi afgehandeld.
