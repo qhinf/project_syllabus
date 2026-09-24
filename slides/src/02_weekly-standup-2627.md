@@ -141,15 +141,18 @@ Uiteraard zet je dan je camera aan en heb je werkend geluid. Gebruik evt je tele
 
 <table class="standup_planning">
   <thead>
-    <tr><td></td><td><s>Pieter</s></td><td>Niek</td></tr>
+    <tr><td></td><td><s>Pieter</s></td><td>Els & Niek</td></tr>
   </thead>
   <tbody>
-    <tr><td>15:00 - 15:30</td><td colspan="2">Nog zonder naam</td></tr>
-    <tr><td>15:30 - 16:00</td><td>&nbsp;</td><td>&nbsp;</td></tr>
-    <tr><td>16:00 - 16:30</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+    <tr><td>15:00 - 15:20</td><td colspan="2">001 Mimi</td></tr>
+    <tr><td>15:25 - 15:45</td><td colspan="2">002 Team Olympus</td></tr>
+    <tr><td>15:50 - 16:10</td><td colspan="2">004 Team Slop</td></tr>
+    <tr><td>16:15 - 16:35</td><td colspan="2">003 Cube Engineers</td></tr>
+    <tr><td>16:40 - 17:00</td><td colspan="2">005 Team TestTypSnelheidTeam</td></tr>
+    <tr><td>17:05 - 17:25</td><td colspan="2">006 Bulldozers</td></tr>
   </tbody>
   <tfoot>
-    <tr><td>16:50</td><td colspan="2">Afsluiting</td></tr>
+    <tr><td>17:25</td><td colspan="2">Afsluiting</td></tr>
   </tfoot>
 </table>
 
