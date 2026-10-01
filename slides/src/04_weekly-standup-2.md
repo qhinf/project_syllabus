@@ -1,4 +1,4 @@
-# Weekly Standup 2<br/>Samenwerkingsreflectie
+# Weekly Standup 3<br/>Samenwerkingsreflectie
 
 <!-- .element: style="font-size: 1.8em" -->
 
@@ -8,14 +8,22 @@ Project Informatica / Q-Vakken / Bijeenkomst 4
 
 ## Vandaag
 
-- Samenwerkingsreflectie
+<!-- - Samenwerkingsreflectie -->
 - Weekly standups
+
+---
+
+## Eindoplevering
+
+Donderdag 12 november
+
+Zie app
 
 ---
 
 ## "Planning"
 
-Samenwerkingsreflectie met Laura, ca. 20 min
+<!-- Samenwerkingsreflectie met Laura, ca. 20 min -->
 
 Weekly standup met Arthur en/of Niek, ca. 30 min
 
@@ -41,7 +49,7 @@ Geen specifiekere planning, zodat we het een beetje flexibel houden
 Doe de weekly standup als een begeleider aanschuift.\
 Zet je Trello bord in beeld!
 
-***
+<!-- ***
 
 ## Samenwerkingsreflectie
 
