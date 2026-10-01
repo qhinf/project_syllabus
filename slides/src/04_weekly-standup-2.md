@@ -25,7 +25,7 @@ Zie app
 
 <!-- Samenwerkingsreflectie met Laura, ca. 20 min -->
 
-Weekly standup met Arthur en/of Niek, ca. 30 min
+Weekly standup met Pieter en/of Niek, ca. 30 min
 
 Verder gewoon aan het werk
 
