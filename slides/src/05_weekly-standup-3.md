@@ -56,12 +56,12 @@ Zet je Trello bord in beeld!
 
 <table class="standup_planning">
   <thead>
-    <tr><td></td><td>Arthur</td><td>Niek</td></tr>
+    <tr><td></td><td>Pieter</td><td>Niek</td></tr>
   </thead>
   <tbody>
-    <tr><td>14:45 - 15:15</td><td>AI-team</td><td>Web Artists</td></tr>
-    <tr><td>15:15 - 15:45</td><td>RecipeHub</td><td>Apollo 2009</td></tr>
-    <tr><td>15:45 - 16:15</td><td></td><td>alto.dev</td></tr>
+    <tr><td>14:45 - 15:15</td><td>TestTypeSnelheid</td><td>Bulldozers</td></tr>
+    <tr><td>15:15 - 15:45</td><td>Team Olympus</td><td>Mimi</td></tr>
+    <tr><td>15:45 - 16:15</td><td>Team Slop</td><td>Cube Engineers</td></tr>
   </tbody>
   <tfoot>
     <tr><td>16:50</td><td colspan="2">Afsluiting</td></tr>
@@ -78,4 +78,4 @@ Zet je Trello bord in beeld!
 
 Sprint review
 
-Fysieke bijeenkomst, locatie volgt
+Fysieke bijeenkomst, locatie SGA
