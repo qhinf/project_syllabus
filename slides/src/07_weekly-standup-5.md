@@ -11,6 +11,9 @@ Project Informatica / Q-Vakken / Bijeenkomst 7
 {{ planning_tabel }}
 <!-- .element: class="planning" -->
 
+Mensen, die met de taxi moeten komen, kunnen zich nu al opgeven
+<!-- .element: class="fragment" -->
+
 ---
 
 ### <span style="font-size: 80%">Volgende week:</span> Eindoplevering
@@ -54,12 +57,12 @@ Zet je Trello bord in beeld!
 
 <table class="standup_planning">
   <thead>
-    <tr><td></td><td>Arthur</td><td>Niek</td></tr>
+    <tr><td></td><td>Pieter</td><td>Niek</td></tr>
   </thead>
   <tbody>
-    <tr><td>14:45 - 15:15</td><td>alto.dev</td><td>RecipeHub</td></tr>
-    <tr><td>15:15 - 15:45</td><td>Web Artists</td><td>AI-team</td></tr>
-    <tr><td>15:45 - 16:15</td><td colspan="2">Apollo 2009</td></tr>
+    <tr><td>14:45 - 15:15</td>Typtestheidsnel<td></td><td>Bulldozers</td></tr>
+    <tr><td>15:15 - 15:45</td>Team Mimi<td></td><td>Cube Engineers</td></tr>
+    <tr><td>15:45 - 16:15</td>Team Slop<td></td><td>Team Olympus</td></tr>
     <tr><td>16:15 - 16:55</td><td colspan="2">Hulp nodig? Laat het weten!</td></tr>
   </tbody>
   <tfoot>
@@ -85,7 +88,7 @@ Notes:
 
 ---
 
-## Volgende week
+## Over twee weken
 
 Eindoplevering
 
