@@ -60,9 +60,9 @@ Zet je Trello bord in beeld!
     <tr><td></td><td>Pieter</td><td>Niek</td></tr>
   </thead>
   <tbody>
-    <tr><td>14:45 - 15:15</td>Typtestheidsnel<td></td><td>Bulldozers</td></tr>
-    <tr><td>15:15 - 15:45</td>Team Mimi<td></td><td>Cube Engineers</td></tr>
-    <tr><td>15:45 - 16:15</td>Team Slop<td></td><td>Team Olympus</td></tr>
+    <tr><td>14:45 - 15:15</td><td>Typtestheidsnel</td><td>Bulldozers</td></tr>
+    <tr><td>15:15 - 15:45</td><td>Team Mimi</td><td>Cube Engineers</td></tr>
+    <tr><td>15:45 - 16:15</td><td>Team Slop</td><td>Team Olympus</td></tr>
     <tr><td>16:15 - 16:55</td><td colspan="2">Hulp nodig? Laat het weten!</td></tr>
   </tbody>
   <tfoot>
