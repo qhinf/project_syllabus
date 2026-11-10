@@ -13,9 +13,9 @@ In dit project ga je gebruik maken van Git en GitHub om samen met je teamgenoten
 
 ## GitHub Classroom
 
-:::{note}
+:::{warning}
 
-Gebruik bij de **workshop** deze link voor GitHub Classroom: {{ github_classroom_workshop_url }}
+GitHub Classroom bestaat niet meer (ja, dat hadden ze ons ook wel even mogen vertellen...), dus de informatie hieronder is niet langer van toepassing. We werken aan een nieuwe handleiding!
 
 :::
 

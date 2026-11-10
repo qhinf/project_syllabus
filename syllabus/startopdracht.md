@@ -28,7 +28,7 @@ Maak je Trello bord en GitHub repository aan.
 
 De **scrum master** volgt de stappen in {ref}`trello-aanmaken` en deelt de *uitnodigingslink* naar je Trello *Workspace* in jullie Teamskanaal. De **andere teamleden** volgen de stappen in {ref}`trello-deelnemen`.
 
-*Een van de* **developers** maakt in GitHub Classroom een team en een repository aan volgens de stappen in {ref}`github-aanmaken`. De **andere teamleden** volgen de stappen in {ref}`github-deelnemen`. De link naar de GitHub Classroom opdracht vind je daar.
+*Een van de* **developers** maakt een repository en deelt die met de teamgenoten.
 
 ## 5. Brainstorm
 
@@ -111,55 +111,3 @@ Kom tegen het einde van de bijeenkomst weer als team bij elkaar om elkaar op de 
    ![Een leeg bord met de knop "Deelnemen aan bord"](assets/startopdracht/trello_image7.png)
 
    Dit zorgt ervoor dat jij ook aan taken toegewezen kunt worden.
-
-(github-aanmaken)=
-### Bijlage: Een GitHub Classroom team aanmaken
-
-1. Open GitHub Classroom via deze link: {{ github_classroom_url }}
-
-2. Kies jouw naam als je daar om gevraagd wordt:
-
-   ![image-20230412120830323](assets/startopdracht/image-20230412120830323.png)
-
-3. Maak een nieuw team aan met jullie teamnaam:
-
-   ![image-20230412120904850](assets/startopdracht/image-20230412120904850.png)
-
-4. Accepteer de opdracht:
-
-   ![image-20230412120934846](assets/startopdracht/image-20230412120934846.png)
-
-   Dan krijg je deze pagina te zien:
-
-   ![image-20230412121006638](assets/startopdracht/image-20230412121006638.png)
-
-5. Ververs de pagina na enkele ogenblikken:
-
-   ![image-20230412121045401](assets/startopdracht/image-20230412121045401.png)
-
-6. Klik op de link om naar de pagina van jullie GitHub repository te gaan. Voortaan kun je deze gewoon vinden door in te loggen op [github.com](https://github.com), dan staat het gewoon bij jouw repositories.
-
-   ![image-20230412121203074](assets/startopdracht/image-20230412121203074.png)
-
-7. Klik op de knop *Set up in Desktop* om jouw repository te openen met GitHub Desktop.
-
-(github-deelnemen)=
-### Bijlage: Deelnemen aan een GitHub Classroom team
-
-1. Open GitHub Classroom via deze link: {{ github_classroom_url }}
-
-2. Kies jouw naam als je daar om gevraagd wordt:
-
-   ![image-20230412120830323](assets/startopdracht/image-20230412120830323.png)
-
-3. Kies het team dat jullie scrum master al heeft aangemaakt:
-
-   ![image-20230412122603714](assets/startopdracht/image-20230412122603714.png)
-
-   Klik op de knop *Join* bij het juiste team om daar lid van te worden. Als jullie team er nog niet bij staat, ververs dan de pagina nadat de Scrum master het team heeft aangemaakt.
-
-6. Klik op de link om naar de pagina van jullie GitHub repository te gaan. Voortaan kun je deze gewoon vinden door in te loggen op [github.com](https://github.com), dan staat het gewoon bij jouw repositories.
-
-   ![image-20230412121203074](assets/startopdracht/image-20230412121203074.png)
-
-7. Klik op de knop *Set up in Desktop* om jouw repository te openen met GitHub Desktop.
