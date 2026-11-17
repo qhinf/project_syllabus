@@ -195,7 +195,7 @@ Welke rol heeft op dit moment jouw voorkeur?\
 
 ## Tools
 
-Trello en GitHub <!-- .element: class="fragment" -->
+Trello en Git <!-- .element: class="fragment" -->
 
 ---
 
@@ -209,7 +209,7 @@ Demo met een "echt" bord.
 
 ---
 
-### Git en ForgeJo
+### Git en Forgejo
 
 Een service om bestanden te delen met Git
 
@@ -251,7 +251,7 @@ Voor project 1 verplicht, voor project 2 vrijwillige opfrisser.
    <small>zie de beschrijvingen in de [syllabus](../rollen.html)</small>
 2. Geef jouw voorkeur door voor project en rol\
    <small>(zie Teams)</small>
-3. Doe de workshops over [Trello](../workshop_trello.html) en [GitHub](../workshop_github.html)\
+3. Doe de workshops over [Trello](../workshop_trello.html) en [Git](../workshop_github.html)\
    <small>Verwachte tijdsinvestering: &plusmn; 1 uur</small>
 
 ---
